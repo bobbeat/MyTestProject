@@ -1,0 +1,165 @@
+/* 
+  POI.strings
+  AutoNavi
+
+  Created by huang on 13-8-14.
+
+*/
+"POI_FriendShare"="Share with Friends";
+"POI_AutonaviUserShare"="Share with AutoNavi Users";
+"POI_HistoryKey"="Historical Keywords";
+
+"POI_Home"="Home";
+"POI_Company"="Work";
+"POI_NoSetting"="Tap to add";
+//"POI_Modify"="修改";
+//"POI_ModifySuccess"="设置成功";
+//"POI_ModifyFail"="设置失败";
+"POI_EditInfoTitle"="Edit Info";
+
+"POI_Edit"="Edit";
+"POI_Done"="Done";
+//"POI_Empty"="清空";
+"POI_FavPoint"="Favorites";
+
+"POI_SearchPlaceholder"="Search Destination";
+"POI_Sratch_keyWorld"="Please input the destination";
+"POI_WhereToGoTitle"="Navi";
+//"POI_GoHome"="回家";
+//"POI_GoCompany"="去公司";
+"POI_IntelligenceNavi"="Call Dest";
+"POI_VoiceSearch"="Voice Search";
+"POI_EmptyHistoryKey"="Clear History";
+"POI_EmptyHistoryAlertMessage"="Clear search records?";
+"POI_NoHistoryKey"="No Historical Keywords";
+"POI_NoHistiryAddress"="No History";
+"POI_NoFavorit"="No Favorites";
+"POI_NOCamera"="No Camera";
+"POI_Search"="Search";
+"POI_Cancel"="Cancel";
+"POI_NoSearchResult"="No search result.";
+"POI_TheWordNotMatched"="The command words can’t be matched.";
+"POI_ProvinceSettings"="Province Setting";
+"POI_Back"="Back";
+"POI_Country"="Country";
+
+"POI_CitySettings"="City Settings";
+"POI_DefaultSort"="Default";
+"POI_DistanceSort"="Distance";
+"POI_SearchAlertSure"="OK";
+"POI_OtherCityMessage"="Can not find \"%@\" in \"%@\", select city below for more search result.";
+"POI_VoiceSearchTitle"="Voice search list";
+"POI_VoiceTryAgain"="再来一次";
+//"POI_AddressBookEditSuccess"="编辑成功";
+//"POI_AddressBookEditFail"="高德信息已被删除,无法保存联系人到高德通讯录";
+//"POI_AddressBookEditOK"="确定";
+//"POI_TrafficCameraTitle"="摄像头详情";
+"POI_CameraSave"="Save";
+"POI_CameraFailed"="Setting failed";
+"POI_Unnamed"="No Specified Point";
+//"POI_Error"="错误";
+"POI_TextFeildErroeMessage"=" Please input Characters、letters or numbers";
+"POI_LengthLimitExceeded"="Exceed the specified length.";
+"POI_OK"="OK";
+"POI_Name"="Name : ";
+"POI_UnnamedPoint"="No Specified Point";
+"POI_CameraType"="Type of Camera";
+//"POI_Surveillance"="Surveillance Camera";
+//"POI_SpeedLimit"="Speed Limit Camera %d";
+"POI_SurveillanceCamera"="Surveillance Camera";
+"POI_SpeedLimitCamera"="Speed Limit Camera";
+"POI_CameraAlertTitle"="Please choose camera type";
+"POI_Phone"="Phone : ";
+"POI_Address"="Address : ";
+"POI_Save"="Save";
+"POI_NameSearch"="Destination";
+"POI_CrossSearch"="Crossroads";
+"POI_AddressSearch"="Address";
+"POI_Nearby"="Nearby";
+"POI_AroundBy"="Nearby";
+"POI_Cursor"="Nearby";
+"POI_Path"=" Along Route";
+"POI_Destination"="Near Destination";
+//"POI_NearbyKeyWord"="请输入关键字";
+"POI_SearchResultEmpty"="No search result.";
+
+"POI_GO"="Go";
+//"POI_ContactsInformation"="联系人详情";
+//"POI_AutoNaviMicroShare"="高德微享";
+//"POI_AutoNaviLocation"="高德位置";
+//"POI_CreateNewContact"="创建新联系人";
+//"POI_AddExistingContact"="添加到现有联系人";
+//"POI_VisitAddressBookAlert"="此功能将访问您的通讯录，是否允许?";
+//"POI_Allow"="好的";
+//"POI_NnAllowed"="不允许";
+//"POI_AutoNaviAlert"="高德信息已被删除,无法保存联系人到高德通讯录";
+//"POI_AddContactSuccess"="添加成功";
+"POI_RotueCalculationFail"="Fail to do route calculation.";
+"POI_AddCamera"="Save Camera";
+"POI_AddCameraSuccess"="Saved";
+"POI_Detail"="Detail";
+"POI_Shortcut"="Shortcut";
+"POI_HistoryNavi"="Dest. History";
+
+"POI_SearchInputTitle"="Search";
+"POI_SetHomeAddressTitle"="Home address is not set, set up now?";
+"POI_SetCompanyAddressTitle"="Work address is not set, set up now?";
+"POI_SetAlertSure"="Setting";
+"POI_SetHomeAddressSuccess"="Saved as home address";
+"POI_SetCompanyAddressSuccess"="Saved as work address";
+"POI_AlreadyInNeary"="Already in the nearby";
+"POI_AlreadyNoData"="Not data for current and this function can’t be performed.";
+"POI_AllCollect"="All favorites";
+"POI_SetHomeAddress"="  Set as home";
+"POI_SetCompanyAddress"=" Set as work";
+"POI_SearchPOITitle"="Search Results View";
+"POI_CommonAddPOITitle"="Add Freq. Used";
+"POI_Common_DeleteCompanyAddressMessage"="Do you want  to delete work address?";
+"POI_Common_DeleteHomeAddressMessage"="Do you want  to delete home address?";
+"POI_Common_DeleteCommonAddressMessage"="Do you want  to delete Freq. Used address?";
+"POI_Common_NO"="Cancel";
+"POI_Common_YES"="Sure";
+"POI_Common_AddTitle"="Select";
+"POI_Common_AddActionSheet1"="Select from the Search";
+"POI_Common_AddActionSheet2"="Select from the Favorite";
+"POI_Common_AddActionSheet3"="Select from the History";
+
+"POI_VoiceUnavailable"="This service can not be used in English.";
+//
+"POI_EmptyAlertRecentDestinationsMessage"="Clear the destination history?";
+
+"POI_EmptyAlertPointMessage"="Remove all favorites data?";
+"POI_AlertCancel"="NO";
+"POI_AlertSure"="YES";
+"POI_FavoriteFull"="Your favorites is full,please clean up.";
+"POI_NaviTo"="Would you like to  navigate to “%@”";
+"POI_TextFieldPromptMessage"="Please input the name.";
+"POI_Add"="Add";
+"POI_SelectPointsInMap"="Map Mark"; 
+
+"POI_SearchMoreResult"="Search online to get more results";
+"POI_TryNetSearch"="No results,try the Online search?";
+"POI_GetMoreResult"="Getting more results...";
+//Recent Dest
+"POI_HistoryLine"="Route History";
+"POI_CleanHistiryAddress"="Clear";
+"POI_NoHistiryLine"="No Route";
+"POI_CleanHistiryLine"="Clear ";
+"POI_EmptyAlertRecentLineMessage"="Clear the route history?";
+"POI_ClearFavorit"="Clear Favorites";
+"POI_ClearALlFavorit"="Clear All Favorites?";
+
+//Camera
+"POI_ClearCinema" = "Clear Camera";
+"POI_ClearAllCinema" = "Clear All Camera?";
+"POI_Navi"="Navi";
+
+"POI_MyLocation"="Current Location";
+"POI_MyCurrentLocation"="Current Location";
+"POI_Go"="Go";
+"POI_addWayPoint" = "Set Waypoints";
+"POI_UnLoadData"="There is no map data for current area %@.Whether to download?";
+"POI_YES"="YES";
+"POI_NO"="NO";
+
+"POI_SearchingFor"="Are you searching for:";

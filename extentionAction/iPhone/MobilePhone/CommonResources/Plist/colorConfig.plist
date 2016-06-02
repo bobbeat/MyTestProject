@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinaImageDisplayColor</key>
+	<string>0,0,0,0.8</string>
+	<key>SwitchColor</key>
+	<string>76, 217,100</string>
+	<key>UserPOIColor</key>
+	<string>227,122,10</string>
+	<key>LocationSearchListColor</key>
+	<string>255,0,0</string>
+	<key>ToolbarButtonColor</key>
+	<string>102,102,102</string>
+	<key>ToolbarButtonDisabledColor</key>
+	<string>0,0,0</string>
+	<key>FooterViewColor</key>
+	<string>135, 138,139</string>
+	<key>DetailTextLabelColor2</key>
+	<string>46,151,40</string>
+	<key>DetailTextLabelColor1</key>
+	<string>150,150,150</string>
+	<key>TextLabelColor</key>
+	<string>50,49,49</string>
+	<key>TextDisableColor</key>
+	<string>0,0,0,0.5</string>
+	<key>PlaceholderColor</key>
+	<string>179,179,179</string>
+	<key>POI_NavigationButtonColor</key>
+	<string>85,85,85</string>
+	<key>POI_NotSettingColor</key>
+	<string>179,179,179</string>
+	<key>DetailNameColor</key>
+	<string>50,49,49</string>
+	<key>DetailInfoColor</key>
+	<string>150,150,150</string>
+	<key>ToolBarSliderColor</key>
+	<string>191,50,56</string>
+	<key>CopyrightColor</key>
+	<string>119,119,119</string>
+	<key>AboutNaviInfoColor</key>
+	<string>62.0f,159.0f,56.0f</string>
+	<key>NavigationBarTitleColor</key>
+	<string>255,255,255</string>
+	<key>ShareControlBackgroundColor</key>
+	<string>0.0f, 0.0f, 0.0f, 0.56f</string>
+	<key>ShareLeftLabelColor</key>
+	<string>30.0f, 255.0f, 0.0f</string>
+	<key>NavigationRightButtonColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>NavigationRightButtonDisabledColor</key>
+	<string>223.0f,58.0f,66.0f</string>
+	<key>NavigationRightButtonHighlightedColor</key>
+	<string>120.0f,31.0f,42.0f</string>
+	<key>CommonHeadViewButtonColor</key>
+	<string>255,255,255</string>
+	<key>SubmitButtonColor</key>
+	<string>255,255,255</string>
+	<key>TrafficLimitPromptColor</key>
+	<string>102,102,102</string>
+	<key>SinaLimitPromptColor</key>
+	<string>102,102,102</string>
+	<key>NewShadowColor</key>
+	<string>0,0,0</string>
+	<key>NewTitleColor</key>
+	<string>255,255,255</string>
+	<key>SinaSelectImageBorderColor</key>
+	<string>255,255,255</string>
+	<key>StopDownloadColor</key>
+	<string>66,160,0</string>
+	<key>StartDownloadColor</key>
+	<string>255,0,0</string>
+	<key>DownloadingColor</key>
+	<string>150,150,150</string>
+	<key>DownloadCellColor</key>
+	<string>0,0,0</string>
+	<key>PopPoiColor</key>
+	<string>0,0,0</string>
+	<key>PopPoiTitleColor</key>
+	<string>0,0,0</string>
+	<key>PopPoiBlockerColor</key>
+	<string>0,0,0,0.7</string>
+	<key>PopPoiAvoidColor</key>
+	<string>255,255,255</string>
+	<key>PopPoiTimeCountColor</key>
+	<string>81,184,242</string>
+	<key>PopPoiTrafficColor</key>
+	<string>0,0,0</string>
+	<key>PopPoiCloseButtonColor</key>
+	<string>0,0,0</string>
+	<key>MainBottomMenuDayColor</key>
+	<string>255.0f, 255.0f, 255.0f, 1.0f</string>
+	<key>MainBottomMenuNightColor</key>
+	<string>221.0f, 221.0f, 221.0f</string>
+	<key>MainModelLabelColor</key>
+	<string>102.0f, 102.0f, 102.0f, 1.0f</string>
+	<key>MainTopSearchDayColor</key>
+	<string>255.0f, 255.0f, 255.0f, 1.0f</string>
+	<key>MainTopSearchNightColor</key>
+	<string>221.0f, 221.0f, 221.0f</string>
+	<key>MainMeterNightColor</key>
+	<string>221.0f, 221.0f, 221.0f</string>
+	<key>MainMeterDayColor</key>
+	<string>0.0f, 0.0f, 0.0f</string>
+	<key>MainNormalButtonNightColor</key>
+	<string>221.0f, 221.0f, 221.0f</string>
+	<key>MainNormalButtonDayColor</key>
+	<string>0.0f, 0.0f, 0.0f</string>
+	<key>MainCancelDetourDayPorColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>MainCancelDetourDayLandColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>MainCancelDetourNightPorColor</key>
+	<string>221.0f, 221.0f, 221.0f</string>
+	<key>MainCancelDetourNightLandColor</key>
+	<string>221.0f, 221.0f, 221.0f</string>
+	<key>ShareButtonTitleDayColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>ShareButtonTitleDayDisColor</key>
+	<string>0.0f,0.0f,0.0f,0.4f</string>
+	<key>ShareButtonTitleNightColor</key>
+	<string>255.0f, 255.0f, 255.0f, 1.0f</string>
+	<key>ShareButtonTitleNightDisColor</key>
+	<string>255.0f, 255.0f, 255.0f,0.2f</string>
+	<key>MainQCSYLabelColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>MainLabelClearBackColor</key>
+	<string>255.0f,255.0f,255.0f,0.0f</string>
+	<key>MainZoomDisColor</key>
+	<string>255.0f,255.0f,0.0f</string>
+	<key>MainNextRoadColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>MainRoadInfoColor</key>
+	<string>255.0f,255.0f,0.0f</string>
+	<key>MainSimClearBackColor</key>
+	<string>255.0f,255.0f,255.0f,0.0f</string>
+	<key>MainSimSelectColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>MainMenuClickColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>MainMenuNoClickColor</key>
+	<string>0.0f,0.0f,0.0f,0.5f</string>
+	<key>MainUserTipsColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>HUDDivingColor</key>
+	<string>133.0f, 133.0f, 133.0f</string>
+	<key>HUDBottomColor</key>
+	<string>80.0f, 80.0f, 80.0f</string>
+	<key>HUDBottomLabelBackColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>HUDBlackBackgroundColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>HUDClearBackgroundColor</key>
+	<string>255.0f,255.0f,255.0f,0.0f</string>
+	<key>HUDLabelClearBackColor</key>
+	<string>255.0f,255.0f,255.0f,0.0f</string>
+	<key>HUDLabelTextColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>RouteWayCalcColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>RouteNoAddressInfoColor</key>
+	<string>0.0f,0.0f,0.0f,0.5f</string>
+	<key>RouteAddressInfoColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>RoutePlaneLabelCustomerColor</key>
+	<string>255.0f,0.0f,0.0f</string>
+	<key>RoutePlaneLabelColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>RoutePlaneTollColor</key>
+	<string>74.0f,74.0f,74.0f</string>
+	<key>RouteBlackBarColor</key>
+	<string>52.0f,52.0f,52.0f, 0.9f</string>
+	<key>RouteBlackTopBarColor</key>
+	<string>50.0f, 50.0f,50.0f, 0.95f</string>
+	<key>RouteBeforeColor</key>
+	<string>62.0f, 195.0f, 224.0f, 1.0f</string>
+	<key>RouteAfterColor</key>
+	<string>121.0f, 121.0f, 223.0f, 1.0f</string>
+	<key>RouteDetourCustomerColor</key>
+	<string>255.0f,255.0f,0.0f</string>
+	<key>RoutePlaneTopMenuColor</key>
+	<string>102.0f, 103.0f, 102.0f</string>
+	<key>RoutePlaneBeginNaviColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>RoutePointButtonColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>RoutePointButtonClickColor</key>
+	<string>0.0f,0.0f,0.0f,0.5f</string>
+	<key>WarningTitleColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>RouteCalcTextColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>RouteDetailCellButtonColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>RouteDetailRoadInfo</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>AccountButtonTitleColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>AccountRegistColor</key>
+	<string>189.0f,49.0f,54.0f</string>
+	<key>AccountLineColor</key>
+	<string>179.0f,179.0f,179.0f</string>
+	<key>AccountPickViewBackColor</key>
+	<string>240.0f, 240.0f, 240.0f</string>
+	<key>TrackInfoCellBackColor</key>
+	<string>0,112.0f,112.0f,0.3f</string>
+	<key>TrackManageLabelColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>StoreLabelColor</key>
+	<string>83.0f,83.0f,83.0f</string>
+	<key>BottomHeaderBackColor</key>
+	<string>191.0f,50.0f, 56.0f</string>
+	<key>MainTipsSetdesColor</key>
+	<string>191.0f,50.0f, 56.0f</string>
+	<key>RouteDetailBackColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>AccountGetVerification</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>MenuListBack</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>WarningTipColor</key>
+	<string>50.0f,49.0f,49.0f</string>
+	<key>WarningPressColor</key>
+	<string>77.0f,140.0f,252.0f</string>
+	<key>CityDownloadButtonTextColor</key>
+	<string>100.0f,100.0f,100.0f</string>
+	<key>CityDownloadButtonAllClickTextColor</key>
+	<string>13.0f,122.0f,255.0f</string>
+	<key>CityDownloadButtonTextGrayColor</key>
+	<string>216.0f,216.0f,216.0f</string>
+	<key>iCallTipTextColor</key>
+	<string>50.0f,50.0f,50.0f</string>
+	<key>iCallTipSpecialTextColor</key>
+	<string>230.0f,35.0f,35.0f</string>
+	<key>iCallModifyButtonTextColor</key>
+	<string>50.0f,50.0f,50.0f</string>
+	<key>iCallDailButtonTextColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>CarServiceLabelTextColor</key>
+	<string>50.0f,50.0f,50.0f</string>
+	<key>MRrankTextColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>MRSoneLableTextColor</key>
+	<string>152.0f,152.0f,152.0f</string>
+	<key>MRStwoLableTextColor</key>
+	<string>97.0f,97.0f,97.0f</string>
+	<key>MRheadLableTextColor</key>
+	<string>97.0f,97.0f,97.0f</string>
+	<key>MRbuttonPressTitleColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>SettingResetButtonColor</key>
+	<string>184.0f,28.0f,34.0f</string>
+	<key>PersonalClickSetColor</key>
+	<string>184.0f,28.0f,34.0f</string>
+	<key>PersonalTrackScoreColor</key>
+	<string>45.0f,152.0f,39.0f</string>
+	<key>PersonalSeeMoreColor</key>
+	<string>88.0f,88.0f,88.0f</string>
+	<key>PopPoiNightTextColor</key>
+	<string>255.0f,255.0,255.0f,1.0f</string>
+	<key>SettingCellDetailTextColor</key>
+	<string>144.0f,144.0f,144.0f</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>POINaviGationColor</key>
+	<string>55.0f,135.0f,51.0f</string>
+	<key>SettingNormalButtonTitleColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>SettingHighlightedButtonTitleColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>LoginSinaTxButtonTitleColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>POISearchButtonTitleColor</key>
+	<string>255.0f,255.0f,255.0f</string>
+	<key>POISearchButtonTitleDisableColor</key>
+	<string>160.0f,160.0f,160.0f,0.8f</string>
+	<key>IcallPhoneColor</key>
+	<string>0.0f,0.0f,0.0f</string>
+	<key>IcallChangePhoneColor</key>
+	<string>144.0f,144.0f,144.0f</string>
+	<key>MainDetourTextColor</key>
+	<string>50.0f,50.0f,50.0f</string>
+</dict>
+</plist>

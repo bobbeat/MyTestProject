@@ -1,0 +1,72 @@
+/*
+ RouteOverview.strings
+ AutoNavi
+ 
+ Created by jiangshu.fu on 13-8-16.
+ 
+ */
+"RouteOverview_TollGate" = "Toll";
+"RouteOverview_BeginNavi" = "Navi";
+"RouteOverview_AddTemp"  = "Add Waypoints";
+"RouteOverview_Delete" = "Delete";
+"RouteOverview_Compare" = "Comparison";
+"RouteOverview_Recommend" = "Default";
+"RouteOverview_Economy"  = "Economic";
+"RouteOverview_Short"    = "Shortest";
+"RouteOverview_High"    = "Motorways";
+"RouteOverview_NOGPS"   = "当前未定位，请检查系统设置中的定位是否打开，您可等待定位或使用上次定位的位置作为起点计算路线。";
+"RouteOverview_WaitGPS" = "等待定位";
+"RouteOverview_PreLocation" = "上次位置";
+"RouteOverview_CurrentNOData" = "Not data for current and this function can’t be performed.";
+"RouteOverview_OK" = "OK";
+"RouteOverview_CurrentNOBus" = "当前位置无公交信息";
+"RouteOverview_FailRoute" = "Fail to do route calculation.";
+"RouteOverview_Back"    = "Back";
+"RouteOverview_NetNoFunc"  = "Online map does not support this function.";
+"RouteOverview_GPSing"   = "locating...";
+"RouteOverview_Avoid" = "Avoid";
+"RoutePointview_RouteDetail" = "Details";
+"RoutePointview_RouteTitle" = "Road Detail";
+"RouteDetour_AfterDetour" = "After";
+"RouteDetour_BeforeDetour" = "Before";
+"RouteDetour_FailRoute" = "Fail to do route calculation.";
+"Route_CalcProgress" = "Calculating Route...";
+"Route_SimuNavi"    = "Simulate";
+"Route_PointBeginNavi" = "Navi";
+"Route_PointContinueNavi" = "Continue";
+"Route_afterDetour" = "After";
+"Route_beforeDetour" = "Before";
+"RouteOverview_TollGateTotal" = "Toll %@";
+"RouteOverview_All" = "Course %@ ";
+"RouteOverview_Forecast" = "(Time %@)";
+"Route_enterTempPoint" = "Please input waypoint";
+"Route_cancelDetour" ="Before";
+"Route_addWayPoint" = "Add Waypoints";
+"Route_addWayPt" = "Add WayPt.";
+"Route_planningRoute" = "Overview";
+"Route_enterStart" = "Please input start point";
+"Route_enterEnd" = "Please input destination";
+"Route_calcFail" = "Fail to do route calculation.";
+"Route_mostFive" = "No more than 5 waypoints";
+"Route_Complete" = "Calculate";
+"Route_roadNotDetour" = "Failed to avoid this road";
+"Route_NoDataWayPoint" = "Online Navigation does not support adding wayPt.";
+"Route_EastNorth" = "EN";
+"Route_East" = "E";
+"Route_EastSouth" = "ES";
+"Route_South" = "S";
+"Route_WestSouth" = "WS";
+"Route_West" = "W";
+"Route_WestNorth" = "WS";
+"Route_North" = "N";
+"Route_calcDistanceTime" = "Overview %@ (Travel Time %@)";
+"Route_ttsPlayRoute" = "The entire %@, is expected to take %@";
+
+"Route_PlaneAvoid" = "Avoid";
+"Route_Recommend" = "Best";
+"Route_LightTraffic" = "Traffic Light %d ";
+"Route_LabelUsed" = "Used";
+
+"Route_OpenAvoid" = "Avoid";
+"Route_AvoidTipsUsed" = "The plan have been avoid congestion for you.";
+"Route_NoAvoidTips" = "Would you like to avoid congestion?";

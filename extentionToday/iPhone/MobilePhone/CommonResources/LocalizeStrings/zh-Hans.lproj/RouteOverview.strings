@@ -1,0 +1,72 @@
+/*
+ RouteOverview.strings
+ AutoNavi
+ 
+ Created by jiangshu.fu on 13-8-16.
+ 
+ */
+"RouteOverview_TollGate" = "收费站";
+"RouteOverview_BeginNavi" = "导航";
+"RouteOverview_AddTemp"  = "加途经点";
+"RouteOverview_Delete" = "删除";
+"RouteOverview_Compare" = "对比";
+"RouteOverview_Recommend" = "推荐路线";
+"RouteOverview_Economy"  = "经济路线";
+"RouteOverview_Short"    = "最短路线";
+"RouteOverview_High"    = "高速优先";
+"RouteOverview_NOGPS"   = "当前未定位，请检查系统设置中的定位是否打开，您可等待定位或使用上次定位的位置作为起点计算路线。";
+"RouteOverview_WaitGPS" = "等待定位";
+"RouteOverview_PreLocation" = "上次位置";
+"RouteOverview_CurrentNOData" = "当前城市数据未下载,无法进行此操作";
+"RouteOverview_OK" = "确定";
+"RouteOverview_CurrentNOBus" = "当前位置无公交信息";
+"RouteOverview_FailRoute" = "路线演算失败";
+"RouteOverview_Back"    = "返回";
+"RouteOverview_NetNoFunc"  = "网络地图不支持该功能";
+"RouteOverview_GPSing"   = "定位中...";
+"RouteOverview_Avoid" = "避让";
+"RoutePointview_RouteDetail" = "路线详情";
+"RoutePointview_RouteTitle" = "路口详情";
+"RouteDetour_AfterDetour" = "避让后";
+"RouteDetour_BeforeDetour" = "避让前";
+"RouteDetour_FailRoute" = "路线演算失败";
+"Route_CalcProgress" = "导航路线计算中...";
+"Route_SimuNavi"    = "模拟导航";
+"Route_PointBeginNavi" = "开始导航";
+"Route_PointContinueNavi" = "继续导航";
+"Route_afterDetour" = "避让后";
+"Route_beforeDetour" = "避让前";
+"RouteOverview_TollGateTotal" = "收费站 %@";
+"RouteOverview_All" = "全程 %@ ";
+"RouteOverview_Forecast" = "(预计 %@)";
+"Route_enterTempPoint" = "请输入途经点";
+"Route_cancelDetour" ="取消避让";
+"Route_addWayPoint" = "添加途经点";
+"Route_addWayPt" = "添加途经点";
+"Route_planningRoute" = "路线规划";
+"Route_enterStart" = "请输入起点";
+"Route_enterEnd" = "请输入终点";
+"Route_calcFail" = "路线演算失败";
+"Route_mostFive" = "最多添加五个途经点";
+"Route_Complete" = "完成";
+"Route_roadNotDetour" = "该路段无法避让";
+"Route_NoDataWayPoint" = "网络导航不支持添加途经点功能";
+"Route_EastNorth" = "东北";
+"Route_East" = "东";
+"Route_EastSouth" = "东南";
+"Route_South" = "南";
+"Route_WestSouth" = "西南";
+"Route_West" = "西";
+"Route_WestNorth" = "西北";
+"Route_North" = "北";
+"Route_calcDistanceTime" = "全程 %@ (预计 %@)";
+"Route_ttsPlayRoute" = "路径规划完成:全程%@,预计需要%@";
+
+"Route_PlaneAvoid" = "躲避拥堵";
+"Route_Recommend" = "推荐";
+"Route_LightTraffic" = "红绿灯 %d 个";
+"Route_LabelUsed" = "已使用";
+
+"Route_OpenAvoid" = "立即使用";
+"Route_AvoidTipsUsed" = "路线规划已为您躲避拥堵";
+"Route_NoAvoidTips" = "有躲避拥堵方案，";

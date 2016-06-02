@@ -1,0 +1,54 @@
+/* 
+  Universal.strings
+  AutoNavi
+
+  Created by yu.liao on 14-5-12.
+
+*/
+"Universal_software"             = "高德導航";
+"Universal_loading"              = "加載中...";
+"Universal_back"                 = "返回";
+"Universal_cancel"               = "取消";
+"Universal_ok"                   = "確定";
+"Universal_no"                   = "否";
+"Universal_yes"                  = "是";
+"Universal_collect"              = "收藏";
+"Universal_networkError"         = "網絡連接出錯，請檢查網絡連接後重試";
+"Universal_networkTimeout"       = "網絡連接出錯，請檢查網絡連接後重試";
+"Universal_tmc_networkError"         = "實時交通獲取失敗，請檢查網絡連接後重試";
+"Universal_tmc_networkTimeout"       = "實時交通獲取超時，請檢查網絡連接後重試";
+"Universal_httpError"            = "數據獲取失敗，請稍後重試 error=%i";
+"Universal_withoutNetwork"       = "網絡連接出錯，請檢查網絡連接後重試";
+"Universal_KM"                   = "km";
+"Universal_M"                    = "m";
+"Universal_noSpecifiedPoint"     = "未知道路";
+"Universal_unknown"              = "未知";
+"Universal_common"               = "常用";
+"Universal_collectAll"           = "全部收藏";
+"Universal_edit"                 = "編輯";
+"Universal_delete"               = "刪除";
+"Universal_save"                 = "保存";
+"Universal_go"                   = "去";
+"Universal_remark"               = "備注:";
+"Universal_lengthTooLong"              = "已超過規定的長度";
+"Universal_NoPhoto"               ="暫無電話信息";
+"Universal_CurrentCityNoData"  =  "當前城市無實時交通數據";
+"Universal_TMCNetError"  = "實時交通獲取失敗";
+"Universal_fastRoadAlert" = "請確認您的終點是否設置在快速道路上";
+"Universal_passbyRoadAlert" = "請確認您的途经点%d是否設置在快速道路上";
+"Universal_networkFail" = "網絡連接出錯，請檢查網絡連接後重試";
+"Universal_unService" = "該服務正在維護中暫停使用";
+"Universal_failCollect" = "收藏失敗";
+"Universal_hadCollect" = "已收藏";
+"Universal_youHadCollect"   =  "您已收藏過";
+
+"Universal_noSupportOperator"   =  "暫不支持此操作";
+"Universal_tackPhoto"   =  "手機拍照";
+"Universal_view"   =  "查看";
+"Universal_chooseFromAlbum"   =  "從相冊選取";
+"Universal_hour"   =  "h";
+"Universal_min"   =  "min";
+"Universal_downloadDialectWithNoWIFI"   =  "%@資源大約%.1f%@,建議您使用WiFi下載,當前網絡不是WiFi,會產生流量費用，費用由通訊運營商收取,請確認是否下載?";
+"Universal_DialectDownloading"   = "正在下載%@,下載完成後，將自動為您啟用%@。";
+"Universal_DialectViewProgress"   = "查看進度";
+"Universal_DialectWithoutNetwork"   = "網絡連接失敗，請檢查網絡連接狀態後前往【設置】中進行下載";

@@ -1,0 +1,34 @@
+/* 
+  Track.strings
+  AutoNavi
+
+  Created by jiangshu.fu on 13-8-13.
+
+*/
+"TrackManage" = "行车轨迹";
+"TrackEdit"   = "清空";
+"TrackDeleAll" = "是否清空所有轨迹？";
+"TrackList"   = "行车轨迹列表";
+"TrackAutoRecord" = "自动记录轨迹";
+"TrackBusNOAuto"  = "公交&地铁模式无自动记录轨迹功能";
+
+"TrackInfo"   = "轨迹详情";
+"TracKDele"   = "删除";
+"TrackIsDel"  = "是否删除轨迹？";
+"TrackCancel" = "取消";
+"TrackOK"     = "确定";
+"TrackName"   = "名称";
+"TrackReplay" = "轨迹回放";
+"TrackClose"  = "关闭显示";
+"TrackOpen"   = "地图显示";
+"TrackNameNull" = "轨迹名不能为空";
+"TrackBack"   = "返回";
+"TrackLimitLength" = "已超过规定的长度";
+"TrackHasExist" = "轨迹名已存在";
+"TrackNetWork" = "当前城市数据未下载,无法进行此操作";
+"TrackToday" = "今天";
+"TrackYesterday" = "昨天";
+"TrackBeforYesterday" = "前天";
+
+"TrackMapView"   = "轨迹查看";
+"TrackNoData"   = "暂无轨迹";

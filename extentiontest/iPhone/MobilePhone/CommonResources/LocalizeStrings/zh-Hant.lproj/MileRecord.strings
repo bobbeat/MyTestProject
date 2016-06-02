@@ -1,0 +1,10 @@
+/* 
+  MileRecord.strings
+  AutoNavi
+
+  Created by weihong.wang on 14-4-12.
+
+*/
+
+"MR_Share"="分享";
+"MR_NetWorkErro"="獲取分享信息失敗，請檢查網絡。";

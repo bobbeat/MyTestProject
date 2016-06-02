@@ -1,0 +1,56 @@
+/* 
+  Universal.strings
+  AutoNavi
+
+  Created by yu.liao on 14-5-12.
+
+*/
+"Universal_software"            = "高德导航";
+"Universal_loading"             = "Loading...";
+"Universal_back"                = "Back";
+"Universal_cancel"              = "Cancel";
+"Universal_ok"                  = "OK";
+"Universal_no"                  = "NO";
+"Universal_yes"                 = "YES";
+"Universal_collect"             = "Save";
+"Universal_networkError"        = "Network failure,please try again later.";
+"Universal_networkTimeout"      = "Network failure,please try again later.";
+"Universal_tmc_networkError"         = "Fail to retrieve real-time traffic，please try again later.";
+"Universal_tmc_networkTimeout"       = "Fail to retrieve real-time traffic，please try again later.";
+"Universal_httpError"           = "Fail to retrieve data，please try again later error=%i";
+"Universal_withoutNetwork"      = "Network failure,please try again later.";
+"Universal_KM"                  = "km";
+"Universal_M"                   = "m";
+"Universal_noSpecifiedPoint"    = "No Defined Road";
+"Universal_unknown"             = "Unknown";
+"Universal_common"              = "Freq. Used";
+"Universal_collectAll"          = "All favorites";
+"Universal_edit"                = "Edit";
+"Universal_delete"              = "Delete";
+"Universal_save"                = "Save";
+"Universal_go"                  = "Go";
+"Universal_remark"              = "Remark:";
+"Universal_lengthTooLong"       = "Exceed the specified length.";
+
+"Universal_NoPhoto"               ="No number";
+"Universal_CurrentCityNoData"  =  "No real-time traffic data in current city ";
+"Universal_TMCNetError"  = "Fail to retrieve real-time traffic";
+"Universal_fastRoadAlert" = "Please confirm whether you want to set your destination on the highway";
+"Universal_passbyRoadAlert" = "Please confirm whether you want to set your waypoint %d on the highway";
+"Universal_networkFail" = "Network failure,please try again later.";
+"Universal_unService" = "This service is temporarily unavailable while being maintained.";
+"Universal_failCollect" = "Saving fails";
+"Universal_hadCollect" = "Saved";
+"Universal_youHadCollect"   =  "您已收藏过";
+
+"Universal_noSupportOperator"   =  "暂不支持此操作";
+"Universal_tackPhoto"   =  "Take Photo";
+
+"Universal_view"   =  "View";
+"Universal_chooseFromAlbum"   =  "Choose From Photos";
+"Universal_hour"   =  "h";
+"Universal_min"   =  "min";
+"Universal_downloadDialectWithNoWIFI"   =  "%@ about %.1f%@,we kindly suggest you use WiFi to download.The current network is not WiFi,if you choose to download,your telecommunication provider will charge you for data usage.Please confirm whether to download?";
+"Universal_DialectDownloading"   = "正在下載%@,下載完成後，將自動為您啟用%@。";
+"Universal_DialectViewProgress"   = "查看進度";
+"Universal_DialectWithoutNetwork"   = "網絡連接失敗，請檢查網絡連接狀態後前往【設置】中進行下載";

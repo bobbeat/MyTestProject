@@ -1,0 +1,72 @@
+/*
+ RouteOverview.strings
+ AutoNavi
+ 
+ Created by jiangshu.fu on 13-8-16.
+ 
+ */
+"RouteOverview_TollGate" = "收費站";
+"RouteOverview_BeginNavi" = "導航";
+"RouteOverview_AddTemp"  = "加途經點";
+"RouteOverview_Delete" = "刪除";
+"RouteOverview_Compare" = "對比";
+"RouteOverview_Recommend" = "推薦路線";
+"RouteOverview_Economy"  = "經濟路線";
+"RouteOverview_Short"    = "最短路線";
+"RouteOverview_High"    = "高速優先";
+"RouteOverview_NOGPS"   = "當前未定位，請檢查系統設置中的定位是否打開，您可等待定位或使用上次定位的位置作爲起點計算路線。";
+"RouteOverview_WaitGPS" = "等待定位";
+"RouteOverview_PreLocation" = "上次位置";
+"RouteOverview_CurrentNOData" = "當前城市數據未下載,無法進行此操作";
+"RouteOverview_OK" = "確定";
+"RouteOverview_CurrentNOBus" = "當前位置無公交信息";
+"RouteOverview_FailRoute" = "路線演算失敗";
+"RouteOverview_Back"    = "返回";
+"RouteOverview_NetNoFunc"  = "網絡地圖不支持該功能";
+"RouteOverview_GPSing"   = "定位中...";
+"RouteOverview_Avoid" = "避讓";
+"RoutePointview_RouteDetail" = "路線詳情";
+"RoutePointview_RouteTitle" = "路口詳情";
+"RouteDetour_AfterDetour" = "避讓後";
+"RouteDetour_BeforeDetour" = "避讓前";
+"RouteDetour_FailRoute" = "路線演算失敗";
+"Route_CalcProgress" = "導航路線計算中...";
+"Route_SimuNavi"    = "模擬導航";
+"Route_PointBeginNavi" = "開始導航";
+"Route_PointContinueNavi" = "繼續導航";
+"Route_afterDetour" = "避讓後";
+"Route_beforeDetour" = "避讓前";
+"RouteOverview_TollGateTotal" = "收費站 %@";
+"RouteOverview_All" = "全程 %@ ";
+"RouteOverview_Forecast" = "(預計 %@)";
+"Route_cancelDetour" ="取消避讓";
+"Route_addWayPoint" = "添加途經點";
+"Route_addWayPt" = "添加途經點";
+"Route_planningRoute" = "路線規劃";
+"Route_enterStart" = "請輸入起點";
+"Route_enterEnd" = "請輸入終點";
+"Route_calcFail" = "路線演算失敗";
+"Route_mostFive" = "最多添加五個途經點";
+"Route_Complete" = "完成";
+"Route_enterTempPoint" = "請輸入途經點";
+"Route_roadNotDetour" = "該路段無法避讓";
+"Route_NoDataWayPoint" = "網絡導航不支持添加途經點功能";
+"Route_EastNorth" = "東北";
+"Route_East" = "東";
+"Route_EastSouth" = "東南";
+"Route_South" = "南";
+"Route_WestSouth" = "西南";
+"Route_West" = "西";
+"Route_WestNorth" = "西北";
+"Route_North" = "北";
+"Route_calcDistanceTime" = "全程 %@ (預計 %@)";
+"Route_ttsPlayRoute" = "路徑規劃完成:全程%@,預計需要%@";
+
+"Route_PlaneAvoid" = "躲避擁堵";
+"Route_Recommend" = "推薦";
+"Route_LightTraffic" = "紅綠燈 %d 個";
+"Route_LabelUsed" = "已使用";
+
+"Route_OpenAvoid" = "立即使用";
+"Route_AvoidTipsUsed" = "路線規劃已為您躲避擁堵";
+"Route_NoAvoidTips" = "有躲避擁堵方案，";

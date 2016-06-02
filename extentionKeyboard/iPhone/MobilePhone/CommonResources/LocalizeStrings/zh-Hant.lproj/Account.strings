@@ -1,0 +1,165 @@
+/* 
+  Account.strings
+  AutoNavi
+
+  Created by gaozhimin on 13-9-21.
+
+*/
+"Account_LoginFail" = "登錄失敗!";
+"Account_Login" = "登錄";
+"Account_PhoneOrEmail" = "輸入手機號或注冊郵箱";
+"Account_Password" = "密  碼";
+"Account_ThirdAccount" = " 使用第三方帳號登錄";
+"Account_Register" = "注冊";
+"Account_ForgetPassword" = "忘記密碼";
+"Account_Sina" = "新浪微博";
+"Account_Tencent" = "騰訊微博";
+"Account_Manage" = "帳號管理";
+"Account_MyInformation" = "個人資料";
+"Account_MyAccount" = "我的帳號";
+"Account_LogOut" = "退出登錄";
+"Account_SureLogOut" = "退出登錄？";
+"Account_Head" = "頭像";
+"Account_NickName" = "昵稱";
+"Account_Gender" = "性別";
+"Account_Region" = "地區";
+"Account_Age" = "年齡";
+"Account_Signature" = "簽名";
+"Account_FindPassword" = "找回密碼";
+"Account_Email" = "郵箱";
+"Account_Next" = "下一步";
+"Account_InputEmailTip" = "請輸入您的注冊郵箱，我們將給您發送郵件，請按照郵件提示重置密碼。";
+"Account_Security" = "爲了您的帳號安全，請在登錄後及時綁定您的手機號。";
+"Account_RegisteredEmail" = "注冊郵箱";
+"Account_PhoneNumber" = "手機號";
+"Account_Verification" = "驗證碼";
+"Account_RegistrationAgreement" = "注冊協議及隱私聲明";
+"Account_Agree" = "我已閱讀並同意";
+"Account_EmailFindPassword" = "郵箱注冊用戶找回密碼";
+"Account_BindNextTime" = "下次綁定";
+"Account_BindNow" = "立即綁定";
+"Account_BindPhoneAccount" = "您使用的賬號: %@";
+"AccountBindPhone_Tips" = "提示：支持手機號登錄,高德導航將提供更優質服務";
+"Account_LogOut1" = "退出登錄";
+"Account_InputNickName" = "請輸入您的昵稱";
+"Account_NotBind" = "未綁定";
+
+"Account_BindPhoneNumber" = "綁定手機號";
+"Account_SinaAccount" = "新浪微博帳號";
+"Account_TencentAccount" = "騰訊微博帳號";
+"Account_ModifyPassword" = "修改密碼";
+
+"Account_RemoveTencentAccount" = "確定解除騰訊微博帳號授權?";
+"Account_RemoveSinaAccount" = "確定解除新浪微博帳號授權?";
+"Account_AccountTip1" = "綁定手機使用手機號登錄;授權微博,使用微博分享興趣點";
+"Account_AccountTip2" = "授權微博,使用微博分享興趣點";
+"Account_AccountTip3" = "綁定手機號可創建高德帳號,獲得更多個性服務";
+
+"Account_AccountTip4" ="請使用高德帳號登錄,第三方登錄已暫停,感謝您的理解。";
+"Account_AccountTip5" ="高德帳戶已經成功升級,建議您再次登錄使用高德帳號,感 謝您的支持";
+"Account_Notice" = "提示";
+"Account_PhoneCheck" = "手機號與接收驗證碼手機號不一致,請重新輸入";
+"Account_BindError" = "綁定手機號失敗,請重試";
+
+"Account_PasswordCondition" = "密碼6-32位英文字母或數字";
+"Account_InputPasswordAgain" = "請再次輸入確認密碼";
+"Account_NewPassword" = "新密碼";
+"Account_ConfirmPassword" = "確認密碼";
+"Account_Confirm" = "確定";
+"Account_FinishBind" = "完成綁定";
+
+"Account_OldPassword" = "舊密碼";
+"Account_FirstName" = "姓氏";
+"Account_ModifyNick" = "修改昵稱";
+"Account_Save" = "保存";
+"Account_EditSignature" = "編輯簽名";
+
+"Account_Male" = "男";
+"Account_Female" = "女";
+
+"Account_NetError" = "網絡連接出錯,請檢查網絡連接後重試";
+"Account_NetTimeout" = "網絡連接超時,請稍後重試";
+"Account_Input11Phone" = "請輸入11位手機號碼";
+"Account_InputVerification" = "請輸入驗證碼";
+"Account_InputPassword" = "請輸入密碼";
+"Account_InputEmail" = "請輸入注冊郵箱地址";
+"Account_VerificationError" = "驗證碼錯誤";
+"Account_EmailError" = "注冊郵箱錯誤";
+"Account_PhoneRegistered" = "您的手機號碼已被注冊";
+"Account_NoPhone" = "手機號尚未注冊，請注冊";
+"Account_PasswordConditionAlert" = "密碼要求是6-32位英文或數字，請重新輸入";
+"Account_PasswordDif" = "確認密碼與密碼不一致";
+"Account_NewPasswordDif" = "確認密碼與新密碼不一致";
+"Account_OldPasswordError" = "舊密碼錯誤";
+"Account_ContentCondition" = "輸入內容只支持1-24位漢字、字母和數字";
+"Account_SignatureCondition" = "輸入簽名字符長度不能超過140個字符";
+"Account_InputAccount" = "請輸入注冊的手機號或郵箱";
+"Account_NoAccount" = "帳號不存在";
+"Account_PasswordError" = "密碼錯誤";
+"Account_UserPasswordError" = "帳號不存在或者密碼錯誤";
+"Account_ModifyPassSuccess" = "密碼修改成功";
+"Account_ModifyError" = "修改失敗，請重試";
+"Account_NoUser" = "該用戶不存在";
+"Account_Relogin" = "請重新登錄";
+"Account_RegistError" = "注冊失敗，請重試";
+"Account_GetDataError" = "個人資料獲取失敗，請稍後再試";
+"Account_SendEmailFail" = "發送失敗，請稍後再試";
+"Account_MessageLimit" = "抱歉，已達到今天短信數量的上限，請您明天再使用";
+"Account_SuccessSendEmail" = "郵件已發送,請按郵件提示重置密碼";
+"Account_SuccessSendVerification" = "驗證碼發送成功";
+"Account_SuccessSendEmail" = "郵件發送成功";
+"Account_SuccessRegister" = "恭喜您注冊成功";
+"Account_SuccessSetPass" = "密碼設置成功";
+"Account_SuccessModifyGender" = "修改性別成功";
+"Account_SuccessModifyNick" = "修改昵稱成功";
+"Account_SuccessModifyAge" = "修改年齡成功";
+"Account_SuccessModifyRegion" = "修改地區成功";
+"Account_SuccessModifySign" = "修改簽名成功";
+"Account_SuccessModifyHead" = "修改頭像成功";
+"Account_SuccessModifyFirstName" = "修改姓氏成功";
+"Account_SuccessBindPhone" = "綁定手機號成功";
+"Account_SuccessRemove" = "解除成功";
+"Account_SuccessBind" = "您已綁定成功";
+"Account_YHXY" = "用戶使用協議";
+"Account_MZDM" = "注冊協議及隱私聲明";
+"Account_NonAccept" = "未授權";
+"Account_GetVerification" = "獲取驗證碼";
+"Account_Seconds" = "%d 秒";
+
+"Account_OperatorError" = "操作失敗,請重試 %@";
+"Account_PhoneNumberBinded" = "您的手機號已經綁定成功,請勿重複操作";
+"Account_InputVerificationError" = "您輸入的驗證碼有誤,請重新輸入";
+"Account_ReloginGDAccount" = "請重新登錄高德帳號";
+"Account_PhoneBindByOther" = "您的手機號已被其他帳號綁定,請重新輸入";
+"Account_MessageSendFail" = "短信發送失敗,請點擊重新獲取驗證碼";
+"Account_PhoneModifyLimit" = "近期您修改手機號碼的次數超過5次,已無法再修改";
+"Account_NoUserInfo" = "無用戶信息";
+"Account_NoDes" = "無下發目的地";
+"Account_CurNoDes" = "此次呼叫未下發目的地";
+"Account_PhoneNeedCheck" = "當前無認證過的手機號碼，無法啓用該服務，是否現在輸入？";
+
+"Account_Home" = "家";
+"Account_Company" = "公司";
+"Account_DriveRecord" = "駕駛記錄";
+"Account_Collection" = "收藏地點";
+"Account_History" = "歷史目的地";
+"Account_Backup" = "備份和同步";
+"Account_No" = "暫無";
+"Account_LoginTip" = "請點擊頭像登錄：）";
+"Account_LogOut" = "注銷";
+"Account_TipSet" = "點擊設置";
+"Account_SeeMore" = "查看更多";
+
+"Account_MyCamera" = "我添加的攝像頭";
+"Account_HistoryRoute" = "歷史路線";
+"Account_SynAll" = "一鍵同步所有";
+"Account_Syn" = "同步";
+
+"Account_LastSynTime" = "上次同步時間";
+"Account_Minutes" = "min";
+"Account_Hours" = "hour";
+"Account_AverageTrack" = "駕駛平均分";
+"Account_Totalkm" = "行駛總裏程";
+"Account_Score" = "分";
+"Account_AverageScore" = "分";
+"Account_SynFail" = "同步失敗";

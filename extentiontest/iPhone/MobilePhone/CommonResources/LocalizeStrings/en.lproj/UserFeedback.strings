@@ -1,0 +1,41 @@
+/* 
+  File.strings
+  AutoNavi
+
+  Created by huang on 13-10-15.
+
+*/
+"TS_UserFeedback"="User Feedback";
+
+"TS_Submit"="Submit";
+
+"TS_SubmitSuccessfully"="Submit successfully";
+
+"TS_Detail"="Detail";
+"TS_Commit"="Commit";
+
+"TS_DataFeedback"="Data problem feedback";
+"TS_Detail"="￼Problem description";
+"TS_NoAddress"="This POI doesn't exist";
+"TS_LocationError"="Wrong location";
+"TS_NameError"="Wrong name";
+"TS_AddressError"="￼Wrong address";
+"TS_TelError"="Wrong telephone";
+"TS_Describe"="Please describe in detail(300 words or less)";
+"TS_UpLoadPic"="Screenshot";
+"TS_MailAndPhone"="Email/QQ/Phone(optional)";
+"TS_RoadError"="Wrong line";
+"TS_Update"="How to update";
+"TS_NoGPSsignal"="No GPS signal";
+"TS_Lackcamera"="Lack of speed camera";
+"TS_NOSuondNavigation"="No sound during navigation";
+"TS_SoftwareError"="Software error";
+"TS_Other" = "Other : ";
+"TS_Advice"="Advice";
+"TS_FeedBackThankyou"="We will handle your feedback as soon as possible, thank you";
+
+"TS_MessageError"="Wrong message";
+"TS_OtherError"="Other errors";
+"TS_PosLoc"="Position error correction";
+"TS_AnError"="Error";
+"TS_SummitFail"="Submit failed";

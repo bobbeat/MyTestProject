@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string></string>
+	<string></string>
+	<string>Close to waypoint</string>
+	<string>Reach the waypoint</string>
+	<string>You have passed the waypoint</string>
+	<string>Close to destination</string>
+	<string>Reach the destination</string>
+	<string>You are overspeed</string>
+	<string>You have entered …</string>
+	<string>You have been off the route</string>
+	<string>Please go straight before next voice guide</string>
+	<string>Arrived</string>
+	<string>Pass the bridge</string>
+	<string>Enter the tunnel</string>
+	<string>Enter the ferry terminal</string>
+	<string>Service area on the left</string>
+	<string>Service area on the right</string>
+	<string>Please keep going straight</string>
+	<string>Please drive on the left</string>
+	<string>Please drive on the right</string>
+	<string>Go straight</string>
+	<string>Go to right front</string>
+	<string>Turn right</string>
+	<string>Go to right rear</string>
+	<string>Take right U-turn</string>
+	<string>Take left U-turn</string>
+	<string>Go to left rear</string>
+	<string>Turn left</string>
+	<string>Go to left front</string>
+	<string>Please drive on the left</string>
+	<string>Please drive on the right</string>
+	<string>Please drive on the left</string>
+	<string>Please drive on the right</string>
+	<string>Please drive on the left</string>
+	<string>Please drive on the right</string>
+	<string>Please drive on the left</string>
+	<string>Please drive on the right</string>
+	<string>Turn left, enter the left side of the road</string>
+	<string>Turn left, enter the right side of the road</string>
+	<string>Turn right, enter the left side of the road.</string>
+	<string>Turn right, enter the right side of the road.</string>
+	<string>Go left rear,  enter the left side of the road.</string>
+	<string>Go left rear,  enter the right side of the road.</string>
+	<string>Go right rear,  enter the left side of the road.</string>
+	<string>Go right rear,  enter the right side of the road.</string>
+	<string>Take left U-turn, enter the left side of the road</string>
+	<string>Take left U-turn, enter the right side of the road</string>
+	<string>Take right U-turn, enter the left side of the road</string>
+	<string>Take right U-turn, enter the right side of the road</string>
+	<string>Drive one the left side of the road</string>
+	<string>Go along the middle</string>
+	<string>Drive one the right side of the road</string>
+	<string>Drive one the left side of the road</string>
+	<string>Go along the middle</string>
+	<string>Drive one the right side of the road</string>
+	<string>Drive one the left side of the road</string>
+	<string>Go along the middle</string>
+	<string>Drive one the right side of the road</string>
+	<string>Go straight on left side of the road</string>
+	<string>Go straight on right side of the road</string>
+	<string>Turn right, enter the left side of the road.</string>
+	<string>Turn right, enter the middle side of the road.</string>
+	<string>Turn right, enter the right side of the road.</string>
+	<string>Turn left, enter the left side of the road.</string>
+	<string>Turn left, enter the middle side of the road.</string>
+	<string>Turn left, enter the right side of the road.</string>
+	<string>Go right rear, enter the left side of the road</string>
+	<string>Go right rear, enter the middle side of the road</string>
+	<string>Go right rear, enter the right side of the road</string>
+	<string>Go left rear, enter the left side of the road</string>
+	<string>Go left rear, enter the middle side of the road</string>
+	<string>Go left rear, enter the right side of the road</string>
+	<string>Take right U-turn, enter the left side of the road</string>
+	<string>Take right U-turn, enter the middle side of the road</string>
+	<string>Take right U-turn, enter the right side of the road</string>
+	<string>Take left U-turn, enter the left side of the road</string>
+	<string>Take left U-turn, enter the middle side of the road</string>
+	<string>Take left U-turn, enter the right side of the road</string>
+	<string>Drive on the left side of the road</string>
+	<string>Drive on the right side of the road</string>
+	<string>Turn right</string>
+	<string>Go right rear </string>
+	<string>Take right U-turn</string>
+	<string>Take left U-turn</string>
+	<string>Go left rear</string>
+	<string>Turn left</string>
+	<string>Exit expressway on the left</string>
+	<string>Exit expressway on the right</string>
+	<string>Exit expressway on the left side of the road</string>
+	<string>Exit expressway on the middle side of the road</string>
+	<string>Exit expressway on the right side of the road</string>
+	<string>Exit expressway on the left side of the road</string>
+	<string>Exit expressway on the middle side of the road</string>
+	<string>Exit expressway on the right side of the road</string>
+	<string>Exit expressway on the left side of the road</string>
+	<string>Exit expressway on the middle side of the road</string>
+	<string>Exit expressway on the right side of the road</string>
+	<string>Straight out of expressway on the left</string>
+	<string>Straight out of expressway on the right</string>
+	<string>Exit expressway on the left side of the road</string>
+	<string>Exit expressway on the right side of the road</string>
+	<string>Left down the viaduct</string>
+	<string>Right down the viaduct</string>
+	<string>Go far left down the viaduct</string>
+	<string>Along the middle side of road down the viaduct</string>
+	<string>Go far right down the viaduct</string>
+	<string>Go far left down the viaduct</string>
+	<string>Along the middle side of road down the viaduct</string>
+	<string>Go far right down the viaduct</string>
+	<string>Go far left down the viaduct</string>
+	<string>Along the middle side of road down the viaduct</string>
+	<string>Go far right down the viaduct</string>
+	<string>Go left down the viaduct</string>
+	<string>Go right down the viaduct</string>
+	<string>Go far left down the viaduct</string>
+	<string>Go far right down the viaduct</string>
+	<string>Go straight then down the viaduct</string>
+	<string>Go right front then down the viaduct</string>
+	<string>Go left front then down the viaduct</string>
+	<string>Left into the side roads</string>
+	<string>Right into the side roads</string>
+	<string>Left into the side roads</string>
+	<string>Right into the side roads</string>
+	<string>Turn left into side roads</string>
+	<string>Turn right into side roads</string>
+	<string>Take left U-turn into side roads</string>
+	<string>Take right U-turn into side roads</string>
+	<string>Left into the side roads</string>
+	<string>Right into the side roads</string>
+	<string>Left into the main road</string>
+	<string>Right into the main road</string>
+	<string>Left into the main road</string>
+	<string>Right into the main road</string>
+	<string>Turn left into main road</string>
+	<string>Turn right into main road</string>
+	<string>Take left U-turn into the main road</string>
+	<string>Take right U-turn into the main road</string>
+	<string>Left into the main road</string>
+	<string>Right into the main road</string>
+	<string>By the far left into the main road</string>
+	<string>Along the middle side of the road into the main road</string>
+	<string>Far right into the main road</string>
+	<string>Far left into the main road</string>
+	<string>Along the middle side of the road into the main road</string>
+	<string>Far right into the main road</string>
+	<string>Far left into the main road</string>
+	<string>Along the middle side of the road into the main road</string>
+	<string>Far right into the main road</string>
+	<string>Far left into the main road</string>
+	<string>Far right into the main road</string>
+	<string>Right into the main road</string>
+	<string>Left into the main road</string>
+	<string>Left into the main road</string>
+	<string>Left out of the main road</string>
+	<string>Right out of the main road</string>
+	<string>Go straight along the left side of the road out of the main road</string>
+	<string>Go straight along the right side of the road out of the main road</string>
+	<string>Far left out of the main road</string>
+	<string>Along the middle side of the road out of the main road</string>
+	<string>Far right out of the main road</string>
+	<string>Far left out of the main road</string>
+	<string>Along the middle side of the road out of the main road</string>
+	<string>Far right out of the main road</string>
+	<string>Far left out of the main road</string>
+	<string>Along the middle side of the road out of the main road</string>
+	<string>Right out of the main road</string>
+	<string>Far left out of the main road</string>
+	<string>Far right out of the main road</string>
+	<string>Left up the viaduct</string>
+	<string>Right up the viaduct</string>
+	<string>Go straight along the left side of the road up the viaduct</string>
+	<string>Go straight along the right side of the road up the viaduct</string>
+	<string>Turn left up the viaduct</string>
+	<string>Turn right up the viaduct</string>
+	<string>Take left U-turn up the viaduct</string>
+	<string>Take right U-turn up the viaduct</string>
+	<string>Far left up the viaduct</string>
+	<string>Along the middle side of road up the viaduct</string>
+	<string>Far right up the viaduct</string>
+	<string>Far left up the viaduct</string>
+	<string>Along the middle side of road up the viaduct</string>
+	<string>Far right up the viaduct</string>
+	<string>Far left up the viaduct</string>
+	<string>Along the middle side of road up the viaduct</string>
+	<string>Far right up the viaduct</string>
+	<string>Far left up the viaduct</string>
+	<string>Far right up the viaduct</string>
+	<string>Go straight up the viaduct</string>
+	<string>To the right front up the viaduct</string>
+	<string>To the left front up the viaduct</string>
+	<string>Left into the expressway</string>
+	<string>Right into the expressway</string>
+	<string>Go straight along left side of the road into expressway</string>
+	<string>Go straight along right side of the road into expressway</string>
+	<string>Turn left into the expressway</string>
+	<string>Turn right into the expressway</string>
+	<string>Take left U-turn into the expressway</string>
+	<string>Take right U-turn into the expressway</string>
+	<string>Far left into the expressway</string>
+	<string>Along the middle side of the road into the expressway</string>
+	<string>Far right into the expressway</string>
+	<string>Far left into the expressway</string>
+	<string>Along the middle side of the road into the expressway</string>
+	<string>Far right into the expressway</string>
+	<string>Far left into the expressway</string>
+	<string>Along the middle side of the road into the expressway</string>
+	<string>Far right into the expressway</string>
+	<string>Far left into the expressway</string>
+	<string>Far right into the expressway</string>
+	<string>Turn left up the ramp</string>
+	<string>Turn left down the ramp</string>
+	<string>Turn right up the ramp</string>
+	<string>Turn right down the ramp</string>
+	<string>To left rear then up the ramp</string>
+	<string>To left rear then down the ramp</string>
+	<string>To right rear then up the ramp</string>
+	<string>To right rear then down the ramp</string>
+	<string>Take left U-turn then up the ramp</string>
+	<string>Take left U-turn down the ramp</string>
+	<string>Take right U-turn up the ramp</string>
+	<string>Take right U-turn then down the ramp</string>
+	<string>Along left side of the road into left turn lanes</string>
+	<string>Along right side of the road into right turn lanes</string>
+	<string>Along left side of the road into left turn lanes</string>
+	<string>Along middle side of the road into right turn lanes</string>
+	<string>Along right side of the road into right turn lanes</string>
+	<string>Along left side of the road into left turn lanes</string>
+	<string>Along middle side of the road into right turn lanes</string>
+	<string>Along right side of the road into right turn lanes</string>
+	<string>Along left side of the road into left turn lanes</string>
+	<string>Along middle side of the road into right turn lanes</string>
+	<string>Along right side of the road into right turn lanes</string>
+	<string>Along the middle side of the road into left turn lanes</string>
+	<string>Along the middle side of the road into left turn lanes</string>
+	<string>Along the middle side of the road into left turn lanes</string>
+	<string>Enter roundabout, please exit from the first</string>
+	<string>Enter roundabout, please exit from the first to the left side of the road</string>
+	<string>Enter roundabout, please exit from the first to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the first to the right side of the road</string>
+	<string>Enter roundabout, please exit from the second</string>
+	<string>Enter roundabout, please exit from the second to the left side of the road</string>
+	<string>Enter roundabout, please exit from the second to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the second to the right side of the road</string>
+	<string>Enter roundabout, please exit from the third </string>
+	<string>Enter roundabout, please exit from the third to the left side of the road</string>
+	<string>Enter roundabout, please exit from the third to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the third to the right side of the road</string>
+	<string>Enter roundabout, please exit from the fourth</string>
+	<string>Enter roundabout, please exit from the fourth to the left side of the road</string>
+	<string>Enter roundabout, please exit from the fourth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the fourth to the right side of the road</string>
+	<string>Enter roundabout, please exit from the fifth</string>
+	<string>Enter roundabout, please exit from the fifth to the left side of the road</string>
+	<string>Enter roundabout, please exit from the fifth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the fifth to the right side of the road</string>
+	<string>Enter roundabout, please exit from the sixth</string>
+	<string>Enter roundabout, please exit from the sixth to the left side of the road</string>
+	<string>Enter roundabout, please exit from the sixth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the sixth to the right side of the road</string>
+	<string>Enter roundabout, please exit from the seventh</string>
+	<string>Enter roundabout, please exit from the seventh to the left side of the road</string>
+	<string>Enter roundabout, please exit from the seventh to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the seventh to the right side of the road</string>
+	<string>Enter roundabout, please exit from the eighth</string>
+	<string>Enter roundabout, please exit from the eighth to the left side of the road</string>
+	<string>Enter roundabout, please exit from the eighth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the eighth to the right side of the road</string>
+	<string>Enter roundabout, please exit from the ninth</string>
+	<string>Enter roundabout, please exit from the ninth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the ninth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the ninth to the right side of the road</string>
+	<string>Enter roundabout, please exit from the tenth</string>
+	<string>Enter roundabout, please exit from the tenth to the left side of the road</string>
+	<string>Enter roundabout, please exit from the tenth to the middle side of the road</string>
+	<string>Enter roundabout, please exit from the tenth to the right side of the road</string>
+	<string>Exit roundabout</string>
+	<string>Exit roundabout, enter into the left side of the road</string>
+	<string>Exit roundabout, enter into the middle side of the road</string>
+	<string>Exit roundabout, enter into the right side of the road</string>
+	<string>Right into the tunnel</string>
+	<string>Along the middle road into tunnel</string>
+	<string>Right into the tunnel</string>
+	<string>Go straight into tunnel</string>
+	<string>To the right front into tunnel</string>
+	<string>Turn right into tunnel</string>
+	<string>To the right rear into tunnel</string>
+	<string>Take right U-turn into tunnel</string>
+	<string>Take left U-turn into tunnel</string>
+	<string>To the left rear into tunnel</string>
+	<string>Turn left into tunnel</string>
+	<string>To the left front into tunnel</string>
+	<string>Left onto bridge</string>
+	<string>Along the middle side of the road onto bridge</string>
+	<string>Right onto bridge</string>
+	<string>Go straight onto bridge</string>
+	<string>To the right front onto bridge</string>
+	<string>Turn right onto bridge</string>
+	<string>To the right rear onto bridge</string>
+	<string>Take right U-turn onto bridge</string>
+	<string>Take left U-turn onto bridge</string>
+	<string>To the left rear onto bridge</string>
+	<string>Turn left onto bridge</string>
+	<string>To the left front onto bridge</string>
+	<string>Reach the toll station, please go to the left tollgate</string>
+	<string>Reach the toll station, please go to the middle tollgate</string>
+	<string>Reach the toll station, please go to the right tollgate</string>
+	<string>Close to waypoint</string>
+	<string>Close to waypoint</string>
+	<string>Close to waypoint</string>
+	<string>Close to waypoint</string>
+	<string>Close to waypoint</string>
+	<string>Left into the ramp</string>
+	<string>Right into the ramp</string>
+</array>
+</plist>

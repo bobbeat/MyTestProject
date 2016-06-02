@@ -1,0 +1,56 @@
+/* 
+  Icall.strings
+  AutoNavi
+
+  Created by gaozhimin on 13-8-19.
+
+*/
+
+"Icall_NoSupportCall" = "The device does not support this function";
+
+
+"Icall_DailPhone" = "Dail Phone";
+
+//6.25 v8.6
+"Icall_ModifyPhone" = "Change phone";
+"Icall_Call" = "Call";
+"Icall_GetDes" = "Get Destination";
+"Icall_Sure" = "Sure";
+"Icall_GetVerCode" = "Get verification code";
+"Icall_VerCode" = "Verification code";
+"Icall_NewNumber" = "New number";
+"Icall_YouNumberBeUsed" = "Your number already exists!";
+"Icall_EnterRightVerCode" = "Please enter correct verification code";
+"Icall_EnterRightNumber" = "Please enter valid phone nubmer";
+"Icall_NetError" = "Please check your internet connection or try again later.";
+"Icall_Reload" = "Reload";
+"Icall_Set" = "Set";
+"Icall_SetNumber" = "Need to set phone number before using navigation service, start to set?";
+"Icall_Tryagain" = "Try again";
+"Icall_Cancel" = "Cancel";
+"Icall_UnableGetDes" = "Unable to get the destination";
+"Icall_WaitingforDes" = "Waiting for destination.";
+"Icall_NumberSame" = " Please make sure the  number is your own number before dialing.";
+"Icall_Notice" = "Notice";
+"Icall_PeleseGetDes"="Tips:If you fail to get the destination,please click get the destination manually'";
+"Icall_BeginNaviGation" = "Dial customer service number, start navigation.";
+"Icall_RightSet" = "Set";
+"Icall_NoSetPhone"="The phone No. is not set";
+"Icall_Type1002"="Internal server error（the request failed）";
+"Icall_Type1008"="The userid is empty";
+"Icall_Type1011"="The lack of request parameters";
+"Icall_Type1013"="Software authentication failure";
+"Icall_Type1014"="Syscode cannot be empty";
+"Icall_Type1026"="The software version number cannot be empty";
+"Icall_Type1027"="The IMEI parameter cannot be empty";
+"Icall_Type1101" = "Notfound the set destination information,please call to reset";
+"Icall_Type1102"="Destination has not been set";
+"Icall_Type1103"="The user does not exist";
+"Icall_Type1104"="Unable to get the destination";
+"Icall_Type1105"="Service number is empty or illegal";
+"Icall_Type1106"="Failure verification code";
+"Icall_TypeOther"="Other errors";
+
+"Icall_Store_iCallService"             = "I call -Artificial Navigation";
+"Icall_Store_iCallPhone"          =  "Phone";
+"Icall_Store_ChangeiCallPhone"          =  "Change phone";

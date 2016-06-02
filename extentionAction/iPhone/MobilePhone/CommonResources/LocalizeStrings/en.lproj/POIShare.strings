@@ -1,0 +1,52 @@
+/* 
+  POIShare.strings
+  AutoNavi
+
+  Created by yu.liao on 14-5-12.
+
+*/
+"Share_SinaTwitterShare" = "Sina";
+"Share_Send" = "Send";
+"Share_SinaTwitter"  = "Sina";
+"Share_InputSinaTwitterContent"  = "Please input the content";
+"Share_Ok" = "OK";
+"Share_Cancel" = "Cancel";
+"Share_TwitterSharing" = "Sharing...";
+"Share_Photograph" = "Take Photo";
+"Share_SelectFromAlbum" = "Choose From Photos";
+"Share_ClearPicture" = "Clear picture";
+"Share_DeviceNotSupport" = "This device does not support this function";
+"Share_ShareSuccess" = "Microblogging share success";
+"Share_ShareAlready" = "You already have Shared";
+"Share_ShareNetError" = "Network failure,please try again later.";
+"Share_ShareFrequently" = "MicroShare too frequently,Please wait to share";
+"Share_ShareFail" = "Microblogging share fail";
+
+"Share_TencentTwitterShare" = "Tencent";
+"Share_TencentTwitter" = "Tencent";
+
+"Share_WeShare" = "We Share";
+"Share_MicroShareBoxTitle"="Map View";
+
+"Share_CheckSina" = "In order to share, you need to bind with Weibo first.";
+"Share_CheckTC" = "Please bind Tencent first.";
+"Share_CheckWechat" = "Wechat is not installed , whether to install？";
+"Share_LoginSuccess" = "Login successful！";
+"Share_LoginFail" = "Fail to login！";
+
+"Share_ShareTitle"="WeShare:connect you and me";
+"Share_Name"="Name";
+"Share_Address"="Address";
+"Share_Photo"="TEL";
+"Share_Navi"="Please click here to navigate";
+"Share_Sina"="Want to know info about AutoNavi";
+"Share_NOInstall"="If you haven't installed AutoNavi navigation, please click here";
+"Share_LocationPoint"="View location";
+"Share_TencentAuth"="Tencent microblogging authorization";
+"Share_AuthSuccess"="Success";
+"Share_VisitCamer"="Please allow app to access your camera in \"Settings\"->\"Privacy\"->\"Camera\".";
+
+"Share_Sms"="SMS";
+"Share_Friend"="Friends";
+"Share_Moments"="Moments";
+"Share_Sina"="Sina";

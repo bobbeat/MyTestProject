@@ -1,0 +1,31 @@
+//
+// Prefix header for all source files of the 'AutoNavi' target in the 'AutoNavi' project
+//
+
+#define PLATFORM_MAC
+
+#ifdef __OBJC__
+    #include "utility.h"
+    #include "event.h"
+    #include "timer.h"
+    #include "thread.h"
+    #include "message.h"
+    #include "sound.h"
+	#import <QuartzCore/QuartzCore.h>
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "GDBL_typedef.h"
+    #import "VCTranslucentBarButtonItem.h"
+    #import "GDBL_UserBehaviorCountNew.h"
+    #import "HMI_typedef.h"
+    #import "MWTypedef.h"
+    #import "SkinDefine.h"
+    #import "ANViewController.h"
+    #import "ANTableViewController.h"
+    #import "MWConstants.h"
+    #import "NSArray+Category.h"
+    #import "NSMutableDictionary+Category.h"
+    #import "MWEngineKit.h"
+    #define NSLog(...)
+    #define printf(...)
+#endif

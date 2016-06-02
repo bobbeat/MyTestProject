@@ -1,0 +1,46 @@
+/* 
+  DrivingTrack.strings
+  AutoNavi
+
+  Created by longfeng.huang on 14-6-13.
+
+*/
+
+"DrivingTrack_dis"  = "距离";
+"DrivingTrack_time"  = "时间";
+"DrivingTrack_share"  = "分享";
+"DrivingTrack_delete"  = "删除";
+"DrivingTrack_topSpeed"  = "最高时速";
+"DrivingTrack_averageSpeed"  = "平均时速";
+"DrivingTrack_fuelConsumption"  = "油耗";
+"DrivingTrack_safety"  = "安全";
+"DrivingTrack_hacceleration"  = "急加速";
+"DrivingTrack_brakes"  = "急刹车";
+"DrivingTrack_uturn"  = "急转弯";
+"DrivingTrack_hypervelocity"  = "超速";
+"DrivingTrack_beats"  = "您击败了全国%d%@的车友!";
+"DrivingTrack_symbol"  = "分";
+"DrivingTrack_drivingRecord"  = "驾驶记录";
+"DrivingTrack_clearDrivingRecord"  = "清空驾驶记录";
+"DrivingTrack_imageType"  = "j";
+"DrivingTrack_trackDetail"  = "轨迹详情";
+"DrivingTrack_viewDetail"  = "查看轨迹";
+"DrivingTrack_alertDistanceTooShort"  = "有效行驶距离小于1km，无法打分";
+"DrivingTrack_alertViewScore"  = "请在【个人中心】--【驾驶轨迹】中查看此次行驶分数";
+"DrivingTrack_alertOverTrackCountLimit"  = "您的驾驶轨迹已超过90条，请及时同步避免数据丢失";
+"DrivingTrack_speedLimit"  = "限速";
+"DrivingTrack_kilometers"  = "公里";
+"DrivingTrack_speedWarning"  = "您已超速";
+"DrivingTrack_specialSpeedWarning"  = "您已严重超速";
+"DrivingTrack_deleteDrivingRecord"  = "删除该记录？";
+"DrivingTrack_noDrivingRecord"  = "暂无驾驶记录";
+"DrivingTrack_clearAllDrivingRecord"  = "清空全部驾驶记录？";
+"DrivingTrack_police"  = "你开这么快，警察叔叔知道嘛！";
+"DrivingTrack_economical"  = "你今日节约了2/3个西瓜的油费！恭喜恭喜！";
+"DrivingTrack_rookie"  = "车能开得这么颤颤巍巍波澜起伏，高飞给你找个师傅瞧瞧？";
+"DrivingTrack_air"  = "开车和做人一样，有时候要停，有时候要冲。——极速传说";
+"DrivingTrack_happy"  = "路通往哪里并不重要，重要的是在路上看到什么风景。";
+"DrivingTrack_wholeTrack"  = "全程";
+"DrivingTrack_times"  = "次";
+"DrivingTrack_no"  = "没有";
+

@@ -1,0 +1,33 @@
+/* 
+  CarService.strings
+  AutoNavi
+
+  Created by jiangshu-fu on 14-3-7.
+
+*/
+
+"CarService_carService" = "车主服务";
+"CarService_MoreServiceToSee" = "更多车主服务，敬请期待...";
+"CarService_DetailService" = "服务详情";
+"CarService_InstallAndAdd" = "安装并添加到车主服务";
+"CarService_Tips" = "提示：长按可升级、置顶或移除服务";
+"CarService_More" = "更多";
+"CarService_Top" = "置顶";
+"CarService_Update" = "升级";
+"CarService_DeleteService" = "移除服务";
+"CarService_Downloading" = "正在下载";
+"CarService_DownloadComplete" = "已安装";
+"CarService_DownloadFail" = "下载失败";
+"CarService_DownloadCheckMd5" = "检测到下载数据文件存在异常，建议重新下载。";
+"CarService_DownloadWaitting" = "等待中";
+"CarService_ServiceTips" = "服务简介";
+"CarService_ServiceDisable" = "服务禁用";
+"CarService_HasDisable" = "%@已被禁用";
+"CarService_Delete" = "移除";
+"CarService_UpdateService" = "升级服务";
+"CarService_UpdateContent" = "%@\n更新内容：\n%@";
+"CarService_UpdateToUse" = "服务需要升级后才能使用";
+"CarService_UpdateNow"    = "立即升级";
+"CarService_Refresh"     = "刷新";
+"CarService_Version" = "版本";
+"CarService_Size"  = "大小";

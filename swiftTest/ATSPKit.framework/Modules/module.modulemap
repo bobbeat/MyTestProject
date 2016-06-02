@@ -1,0 +1,6 @@
+framework module ATSPKit {
+  umbrella header "ATSPKit.h"
+
+  export *
+  module * { export * }
+}

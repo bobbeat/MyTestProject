@@ -1,0 +1,33 @@
+/* 
+  CarService.strings
+  AutoNavi
+
+  Created by jiangshu-fu on 14-3-7.
+
+*/
+
+"CarService_carService" = "Vehicle Owner Services";
+"CarService_MoreServiceToSee" = "More driver services will coming soon…";
+"CarService_DetailService" = "Service Introduction";
+"CarService_InstallAndAdd" = "Install and add to driver services";
+"CarService_Tips" = "Long press to upgrade, put at the top or remove the service";
+"CarService_More" = "More";
+"CarService_Top" = "Put Top";
+"CarService_Update" = "Upgrade";
+"CarService_DeleteService" = "Remove Service";
+"CarService_Downloading" = "Loading";
+"CarService_DownloadComplete" = "Completed";
+"CarService_DownloadFail" = "Download failed";
+"CarService_DownloadCheckMd5" = "Data file error detected, please try to download it again.";
+"CarService_DownloadWaitting" = "Waiting";
+"CarService_ServiceTips" = "Service Introduction";
+"CarService_ServiceDisable" = "Service not Allowed";
+"CarService_HasDisable" = "%@ Service not Allowed";
+"CarService_Delete" = "Remove";
+"CarService_UpdateService" = "Upgrade Service";
+"CarService_UpdateContent" = "%@\nUpdate Content：\n%@";
+"CarService_UpdateToUse" = "Service needs to be upgraded";
+"CarService_UpdateNow"    = "Upgrade";
+"CarService_Refresh"     = "Refresh";
+"CarService_Version" = "Version";
+"CarService_Size"  = "Size";

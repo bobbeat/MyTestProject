@@ -1,0 +1,45 @@
+/* 
+  DrivingTrack.strings
+  AutoNavi
+
+  Created by longfeng.huang on 14-6-13.
+
+*/
+
+"DrivingTrack_dis"  = "Distance";
+"DrivingTrack_time"  = "Time";
+"DrivingTrack_share"  = "Share";
+"DrivingTrack_delete"  = "Delete";
+"DrivingTrack_topSpeed"  = "Highest speed";
+"DrivingTrack_averageSpeed"  = "Average";
+"DrivingTrack_fuelConsumption"  = "Fuel";
+"DrivingTrack_safety"  = "Security";
+"DrivingTrack_hacceleration"  = "Speed Up ";
+"DrivingTrack_brakes"  = "Brakes";
+"DrivingTrack_uturn"  = "Sharp Turn";
+"DrivingTrack_hypervelocity"  = "Overspeed";
+"DrivingTrack_beats"  = "Beat %d%@drivers!";
+"DrivingTrack_symbol"  = "Score";
+"DrivingTrack_drivingRecord"  = "Driving record";
+"DrivingTrack_clearDrivingRecord"  = "Clear driving record";
+"DrivingTrack_imageType"  = "y";
+"DrivingTrack_trackDetail"  = "Track details";
+"DrivingTrack_viewDetail"  = "Details";
+"DrivingTrack_alertDistanceTooShort"  = "Valid driving distance is less than 1km, not scoring.";
+"DrivingTrack_alertViewScore"  = "Please click [Settings] - [Scoring] to view the driving score ";
+"DrivingTrack_alertOverTrackCountLimit"  = "Your scoring record has been more than 90, please synchronization to avoid data loss.";
+"DrivingTrack_speedLimit"  = "speed limit, ";
+"DrivingTrack_kilometers"  = "kilometers";
+"DrivingTrack_speedWarning"  = "Speeding warning";
+"DrivingTrack_specialSpeedWarning"  = "Severe Speeding warning";
+"DrivingTrack_deleteDrivingRecord"  = "Delete record?";
+"DrivingTrack_noDrivingRecord"  = "No driving records";
+"DrivingTrack_clearAllDrivingRecord"  = "Clear all driving records?";
+"DrivingTrack_police"  = "Does cops know you drive so fast!";
+"DrivingTrack_economical"  = "The money you've saved could pay for a watermelon, Congratulations";
+"DrivingTrack_rookie"  = "What a bumpy ride, need a mechanic to do some repair?";
+"DrivingTrack_air"  = "Sometime stop and rest, sometime accelerate and sprint. - Legend of Speed";
+"DrivingTrack_happy"  = "We care not what the destination has in store for us, but the scenery along the way and the mood with which we appreciate it.";
+"DrivingTrack_wholeTrack"  = "Whole journey";
+"DrivingTrack_times"  = "times";
+"DrivingTrack_no"  = "NO. ";

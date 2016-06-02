@@ -1,0 +1,57 @@
+/* 
+  Icall.strings
+  AutoNavi
+
+  Created by gaozhimin on 13-8-19.
+
+*/
+
+"Icall_NoSupportCall" = "該設備不支持該功能";
+
+"Icall_ModifyPhone" = "修改手機號";
+"Icall_DailPhone" = "立即撥打";
+
+//6.25 v8.6
+"Icall_Call" = "呼叫客服";
+"Icall_GetDes" = "手動獲取目的地";
+
+"Icall_Sure" = "確定";
+"Icall_GetVerCode" = "獲取驗證碼";
+"Icall_VerCode" = "驗證碼";
+"Icall_NewNumber" = "新號碼";
+"Icall_YouNumberBeUsed" = "您輸入的手機號碼已被使用";
+"Icall_EnterRightVerCode" = "請輸入正確的驗證碼";
+"Icall_EnterRightNumber" = "請輸入真實有效的手機號碼";
+"Icall_NetError" = "網絡異常,請檢查網絡或稍後再試";
+"Icall_Reload" = "重新加載";
+"Icall_Set" = "设置";
+"Icall_SetNumber" = "使用人工導航需先設置本機號碼，是否立即設置?";
+"Icall_Tryagain" = "重新獲取";
+"Icall_Cancel" = "取消";
+"Icall_UnableGetDes" = "無法獲取目的地,請嘗試重新獲取";
+"Icall_WaitingforDes" = "正在為您獲取目的地";
+"Icall_NumberSame" = "呼叫客服前，請確保此號碼與你的本機號相同";
+"Icall_Notice" = "注意";
+"Icall_PeleseGetDes"="提示 : 挂斷電話後，如果獲取目的地失敗,請點擊手動獲取目的地";
+"Icall_BeginNaviGation" = "撥打客服電話，立即開始導航";
+"Icall_RightSet" = "立即設置";
+"Icall_NoSetPhone"="未設置本機號碼";
+//
+"Icall_Type1002"="內部服務器錯誤(請求失敗)";
+"Icall_Type1008"="userid 為空";
+"Icall_Type1011"="缺少請求參數";
+"Icall_Type1013"="軟件鑒權失敗";
+"Icall_Type1014"="syscode 不能為空";
+"Icall_Type1026"="軟件版本號不能為空";
+"Icall_Type1027"="imei 參數不能為空";
+"Icall_Type1101" = "请求目的地失效";
+"Icall_Type1102"="未置查找到已設置的目的地信息,請撥打電話重新設置";
+"Icall_Type1103"="用戶不存在";
+"Icall_Type1104"="無法穫取到目的地";
+"Icall_Type1105"="服務號碼為空或非法";
+"Icall_Type1106"="驗證碼失效";
+"Icall_TypeOther"="其他錯誤";
+
+"Icall_Store_iCallService"             = "人工導航";
+"Icall_Store_iCallPhone"          =  "手機號";
+"Icall_Store_ChangeiCallPhone"          =  "更換手機號碼";

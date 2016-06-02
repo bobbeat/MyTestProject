@@ -1,0 +1,40 @@
+/* 
+  File.strings
+  AutoNavi
+
+  Created by huang on 13-10-15.
+
+*/
+"TS_UserFeedback"="問題反饋";
+
+"TS_Submit"="提交";
+
+"TS_SubmitSuccessfully"="提交成功";
+
+"TS_Detail"="問題描述";
+"TS_Commit"="提交";
+"TS_DataFeedback"="￼數據問題反饋";
+"TS_Detail"="問題描述";
+"TS_NoAddress"="地點不存在";
+"TS_LocationError"="位置錯誤";
+"TS_NameError"="￼名稱錯誤";
+"TS_AddressError"="地址錯誤";
+"TS_TelError"="電話錯誤";
+"TS_Describe"="請詳細描述您發現的問題 (300 字以內)";
+"TS_UpLoadPic"="￼上傳圖片";
+"TS_MailAndPhone"="郵箱/QQ/手機號(選填)";
+"TS_RoadError"="線路錯誤";
+"TS_Update"="如何更新";
+"TS_NoGPSsignal"="GPS 不能定位";
+"TS_Lackcamera"="缺少攝像頭";
+"TS_NOSuondNavigation"="導航時沒有聲音";
+"TS_SoftwareError"="軟件出錯";
+"TS_Advice"="建議";
+"TS_Other" = "其他 : ";
+"TS_FeedBackThankyou"="感謝您的反饋,我們會盡快處理";
+
+"TS_MessageError"="信息錯誤";
+"TS_OtherError"="其他錯誤";
+"TS_PosLoc"="位置糾錯";
+"TS_AnError"="報錯";
+"TS_SummitFail"="提交失敗";

@@ -1,0 +1,426 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9CE6A588197F462F006281C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CE6A587197F462F006281C4 /* Foundation.framework */; };
+		9CE6A58D197F462F006281C4 /* diana.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9CE6A58C197F462F006281C4 /* diana.h */; };
+		9CE6A58F197F462F006281C4 /* diana.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CE6A58E197F462F006281C4 /* diana.m */; };
+		9CE6A596197F462F006281C4 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CE6A595197F462F006281C4 /* XCTest.framework */; };
+		9CE6A597197F462F006281C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CE6A587197F462F006281C4 /* Foundation.framework */; };
+		9CE6A599197F462F006281C4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CE6A598197F462F006281C4 /* UIKit.framework */; };
+		9CE6A59C197F462F006281C4 /* libdiana.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CE6A584197F462F006281C4 /* libdiana.a */; };
+		9CE6A5A2197F462F006281C4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9CE6A5A0197F462F006281C4 /* InfoPlist.strings */; };
+		9CE6A5A4197F462F006281C4 /* dianaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CE6A5A3197F462F006281C4 /* dianaTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9CE6A59A197F462F006281C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9CE6A57C197F462F006281C4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9CE6A583197F462F006281C4;
+			remoteInfo = diana;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9CE6A582197F462F006281C4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				9CE6A58D197F462F006281C4 /* diana.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		9CE6A584197F462F006281C4 /* libdiana.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libdiana.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CE6A587197F462F006281C4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9CE6A58B197F462F006281C4 /* diana-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "diana-Prefix.pch"; sourceTree = "<group>"; };
+		9CE6A58C197F462F006281C4 /* diana.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = diana.h; sourceTree = "<group>"; };
+		9CE6A58E197F462F006281C4 /* diana.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = diana.m; sourceTree = "<group>"; };
+		9CE6A594197F462F006281C4 /* dianaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dianaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CE6A595197F462F006281C4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		9CE6A598197F462F006281C4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		9CE6A59F197F462F006281C4 /* dianaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "dianaTests-Info.plist"; sourceTree = "<group>"; };
+		9CE6A5A1197F462F006281C4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9CE6A5A3197F462F006281C4 /* dianaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dianaTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9CE6A581197F462F006281C4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CE6A588197F462F006281C4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9CE6A591197F462F006281C4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CE6A596197F462F006281C4 /* XCTest.framework in Frameworks */,
+				9CE6A59C197F462F006281C4 /* libdiana.a in Frameworks */,
+				9CE6A599197F462F006281C4 /* UIKit.framework in Frameworks */,
+				9CE6A597197F462F006281C4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9CE6A57B197F462F006281C4 = {
+			isa = PBXGroup;
+			children = (
+				9CE6A589197F462F006281C4 /* diana */,
+				9CE6A59D197F462F006281C4 /* dianaTests */,
+				9CE6A586197F462F006281C4 /* Frameworks */,
+				9CE6A585197F462F006281C4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9CE6A585197F462F006281C4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9CE6A584197F462F006281C4 /* libdiana.a */,
+				9CE6A594197F462F006281C4 /* dianaTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9CE6A586197F462F006281C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9CE6A587197F462F006281C4 /* Foundation.framework */,
+				9CE6A595197F462F006281C4 /* XCTest.framework */,
+				9CE6A598197F462F006281C4 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9CE6A589197F462F006281C4 /* diana */ = {
+			isa = PBXGroup;
+			children = (
+				9CE6A58C197F462F006281C4 /* diana.h */,
+				9CE6A58E197F462F006281C4 /* diana.m */,
+				9CE6A58A197F462F006281C4 /* Supporting Files */,
+			);
+			path = diana;
+			sourceTree = "<group>";
+		};
+		9CE6A58A197F462F006281C4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9CE6A58B197F462F006281C4 /* diana-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9CE6A59D197F462F006281C4 /* dianaTests */ = {
+			isa = PBXGroup;
+			children = (
+				9CE6A5A3197F462F006281C4 /* dianaTests.m */,
+				9CE6A59E197F462F006281C4 /* Supporting Files */,
+			);
+			path = dianaTests;
+			sourceTree = "<group>";
+		};
+		9CE6A59E197F462F006281C4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9CE6A59F197F462F006281C4 /* dianaTests-Info.plist */,
+				9CE6A5A0197F462F006281C4 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9CE6A583197F462F006281C4 /* diana */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9CE6A5A7197F462F006281C4 /* Build configuration list for PBXNativeTarget "diana" */;
+			buildPhases = (
+				9CE6A580197F462F006281C4 /* Sources */,
+				9CE6A581197F462F006281C4 /* Frameworks */,
+				9CE6A582197F462F006281C4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = diana;
+			productName = diana;
+			productReference = 9CE6A584197F462F006281C4 /* libdiana.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		9CE6A593197F462F006281C4 /* dianaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9CE6A5AA197F462F006281C4 /* Build configuration list for PBXNativeTarget "dianaTests" */;
+			buildPhases = (
+				9CE6A590197F462F006281C4 /* Sources */,
+				9CE6A591197F462F006281C4 /* Frameworks */,
+				9CE6A592197F462F006281C4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9CE6A59B197F462F006281C4 /* PBXTargetDependency */,
+			);
+			name = dianaTests;
+			productName = dianaTests;
+			productReference = 9CE6A594197F462F006281C4 /* dianaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9CE6A57C197F462F006281C4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = autonavi;
+			};
+			buildConfigurationList = 9CE6A57F197F462F006281C4 /* Build configuration list for PBXProject "diana" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9CE6A57B197F462F006281C4;
+			productRefGroup = 9CE6A585197F462F006281C4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9CE6A583197F462F006281C4 /* diana */,
+				9CE6A593197F462F006281C4 /* dianaTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9CE6A592197F462F006281C4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CE6A5A2197F462F006281C4 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9CE6A580197F462F006281C4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CE6A58F197F462F006281C4 /* diana.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9CE6A590197F462F006281C4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9CE6A5A4197F462F006281C4 /* dianaTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9CE6A59B197F462F006281C4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9CE6A583197F462F006281C4 /* diana */;
+			targetProxy = 9CE6A59A197F462F006281C4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9CE6A5A0197F462F006281C4 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CE6A5A1197F462F006281C4 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9CE6A5A5197F462F006281C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		9CE6A5A6197F462F006281C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9CE6A5A8197F462F006281C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/diana.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "diana/diana-Prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VALID_ARCHS = "armv7 armv7s";
+			};
+			name = Debug;
+		};
+		9CE6A5A9197F462F006281C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/diana.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "diana/diana-Prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VALID_ARCHS = "armv7 armv7s";
+			};
+			name = Release;
+		};
+		9CE6A5AB197F462F006281C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "diana/diana-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "dianaTests/dianaTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		9CE6A5AC197F462F006281C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "diana/diana-Prefix.pch";
+				INFOPLIST_FILE = "dianaTests/dianaTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9CE6A57F197F462F006281C4 /* Build configuration list for PBXProject "diana" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CE6A5A5197F462F006281C4 /* Debug */,
+				9CE6A5A6197F462F006281C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9CE6A5A7197F462F006281C4 /* Build configuration list for PBXNativeTarget "diana" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CE6A5A8197F462F006281C4 /* Debug */,
+				9CE6A5A9197F462F006281C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9CE6A5AA197F462F006281C4 /* Build configuration list for PBXNativeTarget "dianaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9CE6A5AB197F462F006281C4 /* Debug */,
+				9CE6A5AC197F462F006281C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9CE6A57C197F462F006281C4 /* Project object */;
+}

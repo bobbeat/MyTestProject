@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A37664C-20AC-44DD-B0EE-97F0B9B90289</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RoadFreightage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>698c93b0-f5b0-e14e-a844-c187e2b5b303</key>
+		<string>https://yu-liao01.autonavi.com/svn/WKSY</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RoadFreightage/RoadFreightage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>698c93b0-f5b0-e14e-a844-c187e2b5b303</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>698c93b0-f5b0-e14e-a844-c187e2b5b303</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>698c93b0-f5b0-e14e-a844-c187e2b5b303</string>
+			<key>IDESourceControlWCCName</key>
+			<string>root</string>
+		</dict>
+	</array>
+</dict>
+</plist>

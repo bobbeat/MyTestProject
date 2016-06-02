@@ -1,0 +1,150 @@
+/*
+ File.strings
+ AutoNavi
+ 
+ Created by huang on 13-8-9.
+ 
+ */
+//简体
+
+
+"Setting_VersionInformation"="About";
+"Setting_FontSizeTitle"="Map Font";
+"Setting_Day/NightModesTitle"="Day/Night";
+"Setting_SettingReset" = "Reset";
+"Setting_SettingAbout" = "About";
+"Setting_SettingRate" = "Rate";
+"Setting_SettingFeedBack" = "Feedback";
+"Setting_SettingCheckingUpdate"="Update Version";
+"Setting_SettingElectronicCompass"="Electronic Compass";
+"Setting_SettingPopUp"="POI Pop-Up";
+"Setting_OnlineSearch"="Online Search";
+"Setting_SettingLanguage"="Language";
+"Setting_Welcome"="Welcome Message";
+"Setting_SettingCamera"="Camera";
+"Setting_SettingFrequency"="Frequency";
+"Setting_SettingTrafficReplay"="Traffic Report";
+"Setting_SettingVoiceChoice"="Voice Choice";
+"Setting_VoiceSetting"="Voice";
+"Setting_DisplayPriority"="POI On Map";
+"Setting_TrackManagements"="Track Recording";
+"Setting_POIDisplayPriority"="POI On Map";
+"Setting_NaviInBackground"="Background Navigation";
+"Setting_TrafficIncident"="Traffic Event";
+"Setting_BuildingFootprint"="Buildings";
+"Setting_AutoScore" = "Automatic Scoring";
+"Setting_AutoZoom" = "Autozoom";
+"Setting_LegalNotices"="Special Tips";
+//"Setting_More"="更多";
+"Setting_Setting"="Settings";
+//"Setting_Back"="返回地图";
+"Setting_MapDownload"="Manage Map";
+"Setting_UserFeedback"="Feedback";
+"Setting_NewFeatures"="New Function";
+"Setting_PreferenceSetting"="Preference Setting";
+"Setting_VoiceBroadcast"="Voice Broadcast";
+
+
+"Setting_POITypeAuto"="Automatic";
+"Setting_POITypeFuel"="Stations";
+"Setting_POITypeAUTO_4S"="Auto 4S";
+"Setting_POITypeCatering"="Catering";
+"Setting_POITypeMarket"="Shops";
+"Setting_POITypeSuperMarket"="Supermarket";
+"Setting_POITypeHall"="Sports Stadium";
+"Setting_POITypeGolf"="Golf";
+"Setting_POITypeKTV"="KTV";
+"Setting_POITypeCinema"="Cinema";
+"Setting_POITypeHospital"="Hospital";
+"Setting_POITypeHotel"="Accommodation";
+"Setting_POITypeScenicSpots"="Attractions";
+"Setting_POITypeSchool"="School";
+"Setting_POITypeParking"="Parking";
+"Setting_POITypeBank"="Bank";
+"Setting_POITypeToilet"="Toilet";
+"Setting_POIExplanations"="Please select your favorite POI to display on the map first";
+
+
+"Setting_DialectType0"="Female";
+
+
+"Setting_FrequencyType0"="Normal";
+"Setting_FrequencyType1"="Frequent";
+
+"Setting_AutoNavi"="AutoNavi";
+"Setting_Copyright"="©2014 AutoNavi All Rights Reserved.";
+"Settin_DetectionUpdate"="Update";
+"Setting_AlertBack"="Cancel";
+"Setting_AlertSure"="Call";
+
+"Setting_SystemVersion"="System version:%@";
+"Setting_EngineVersion"="Engine version:%@";
+"Setting_DataVersion"="Data version:%@";
+"Setting_SoftwareVersion"="Version";
+"Setting_MapCopyright"="Map Version Info";
+
+"Setting_ServicePhone"="Tel";
+"Setting_OfficialCommunity"="BBS";
+
+"Setting_webSite" = "Website";
+"Setting_GDweibo" = "Weibo";
+"Setting_GDweChat" = "WeChat";
+"Setting_GDQQqun" = "QQ Group";
+"Setting_GDEmail" = "Service Mail";
+
+
+"Setting_FontSize0"="Large";
+"Setting_FontSize1"="Medium";
+"Setting_FontSize2"="Small";
+"Setting_Day/NightModes2"="Auto";
+"Setting_Day/NightModes0"="Day";
+"Setting_Day/NightModes1"="Night";
+"Setting_ClosePOITitle"="When this feature is off, long press map interface to display POI details.";
+
+
+"Setting_ResetAllSettings"="Reset to defaults";
+"Setting_EraseAll"="Reset to defaults and delete data";
+"Setting_ResetAllAlertMessage"="Are you sure to reset to default settings?";
+"Setting_EraseAllAlertMessage"="Are you sure to reset to default settings and delete data and media files?";
+"Setting_ResetAlertBack"="Cancel";
+"Setting_ResetAllAlertSure"="YES";
+
+"Setting_NotLoginTitle"="";
+
+
+"Setting_CheckingUpdate"="Checking...";
+"Setting_NewVersion"="There are new version";
+"Setting_UpdateSure"="Update";
+"Setting_UpdateCancel"="Cancel";
+
+"Setting_NewestVersion"="You are up to date.";
+"Setting_NavigationSetting"="Navigation Settings ";
+"Setting_SignInMessage"="Not login, login your account?";
+"Setting_NO"="NO";
+"Setting_YES"="YES";
+"Setting_Authenticate" = "授权失败,请重新登录帐号.";
+"Setting_NoPrompt"="No prompt";
+"Setting_RemindMeLater"="Remind me later";
+
+"Setting_MapScheme"="Map Scheme";
+"Setting_WinterSunshine"="Winter Sunshine";
+"Setting_LightofDarkness"="Light of Darkness";
+"Setting_Sunshine"="Sunshine";
+"Setting_Sakura"="Sakura";
+"Setting_Moonlight"="Moonlight";
+"Setting_Cappuccino"="Cappuccino";
+"Setting_NotSupportScheme"="The current basic resources does not support, please reset after upgrade";
+
+
+//皮肤本地化删除后，强势插入
+"SkinDownload_update"        = "Update";
+"SkinDownload_unDownload"    = "Download";
+"SkinDownload_continue"      = "Continue";
+"SkinDownload_default"       = "Default";
+"SkinDownload_unzip"         = "Unzip";
+"SkinDownload_Use"           = "Use";
+"SkinDownload_NoSkinID"      = "Compatible with the current version without skin, please upgrade to the latest version";
+"SkinDownload_CurrentLarge"  = "Download size is larger than the size of the server returns";
+"SkinDownload_NoSpace"       = "Insufficient disk space, fail to extract data!";
+"SkinDownload_UnzipFail"     = "Extracting failed";
+"SkinDownload_waiting"      = "Waiting";

@@ -1,0 +1,49 @@
+/* 
+  POIShare.strings
+  AutoNavi
+
+  Created by yu.liao on 14-5-12.
+
+*/
+"Share_SinaTwitterShare" = "新浪微博分享";
+"Share_Send" = "發送";
+"Share_SinaTwitter"  = "新浪微博";
+"Share_InputSinaTwitterContent"  = "請輸入微博內容";
+"Share_Ok" = "確定";
+"Share_Cancel" = "取消";
+"Share_TwitterSharing" = "微博分享中...";
+"Share_Photograph" = "拍照";
+"Share_SelectFromAlbum" = "從相冊選擇";
+"Share_ClearPicture" = "清除圖片";
+"Share_DeviceNotSupport" = "該設備不支持該功能";
+"Share_ShareSuccess" = "微博分享成功";
+"Share_ShareAlready" = "您已分享過";
+"Share_ShareNetError" = "網絡連接出錯，請檢查網絡連接後重試";
+"Share_ShareFrequently" = "微享頻率過快，請稍候分享";
+"Share_ShareFail" = "微博分享失敗";
+"Share_TencentTwitterShare" = "騰訊微博分享";
+"Share_TencentTwitter" = "騰訊微博";
+"Share_WeShare" = "高德微享";
+
+"Share_CheckSina" = "請先完成微博授權再進行分享。";
+"Share_CheckTC" = "請先完成微博授權再進行分享。";
+"Share_CheckWechat" = "尚未安裝微信，是否前往安裝";
+"Share_LoginSuccess" = "登陸成功！";
+"Share_LoginFail" = "登陸失敗！";
+
+"Share_ShareTitle"="高德微享,連接你我";
+"Share_Name"="名稱";
+"Share_Address"="地址";
+"Share_Photo"="電話";
+"Share_Navi"="導航至此請點擊";
+"Share_Sina"="想對高德了解更多";
+"Share_NOInstall"="如果您未安裝高德導航,可點擊查看位置";
+"Share_LocationPoint"="位置查看";
+"Share_TencentAuth"="騰訊微博授權";
+"Share_AuthSuccess"="授權成功";
+"Share_VisitCamer"="請打開系統設置中\"隱私→相機\"，允許\"高德導航\"訪問您的相機。";
+
+"Share_Sms"="短信";
+"Share_Friend"="微信好友";
+"Share_Moments"="微信朋友圈";
+"Share_Sina"="新浪微博";

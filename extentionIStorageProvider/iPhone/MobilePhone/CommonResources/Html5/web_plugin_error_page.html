@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="msapplication-tap-highlight" content="no">
+<title>刷新页面</title>
+<style type="text/css">
+html,body { height:100%; padding:0; margin:0;}
+.ready { height:100%; display:block; cursor:pointer;}
+.ready img { position:absolute; top:50%; left:50%; margin:-300px 0 0 -232px;  }
+@media (min-width:0) and (max-width:320px){
+    .ready img { position:absolute; top:50%; left:50%; margin:-160px 0 0 -104px; width:208px; height:350px;}
+	}
+@media (min-width:320px) and (max-width:480px){
+    .ready img { position:absolute; top:50%; left:50%; margin:-160px 0 0 -104px; width:208px; height:350px;}
+	}
+@media (min-width:480px) and (max-width:720px){
+    .ready img { position:absolute; top:50%; left:50%; margin:-210px 0 0 -155px; width:310px; height:522px;}
+	}
+</style>
+</head>
+
+<body>
+<div class="ready"><img src="error_page_img.png"></div>
+</body>
+<script type="text/javascript">
+    var _c = {
+        os: navigator.userAgent.match(/iphone|ipad|ipod/i) ? "ios" : "android",
+        connect: function (param) {
+            "ios" == _c.os ?
+                    "object" == typeof param ?
+                            (_c.action = param.bridge, _c.action.init(), _c.action.registerHandler("webviewJsHandler", callbacks), navAPI._init())
+                            : document.addEventListener('anavWebViewJavascriptBridgeReady', _c.connect, false)
+                    : "object" == typeof param ? (_c.action = {
+                send: function(param, param2) {
+                    param = JSON.stringify(param);
+                    param2 ? window.ixmg.invokeMethod("send", [param, param2]) : window.ixmg.invokeMethod("send", [param]);
+                }
+            }, _c.action.send({
+                action: "registerCallback"
+            }, "callbacks"), navAPI._init())
+                    : document.addEventListener("DOMContentLoaded", _c.connect, false)
+        },
+        callback: function(result){
+            if (!result._action)
+                return;
+            switch(result._action) {
+                case "registerCallback":
+					navAPI.bindBackBtn(function() {
+						navAPI.exitPlugin();
+					});
+                    break;
+                case "triggerFeature":
+                    break;
+                case "reload":
+                    break;
+            }
+        }
+    },
+    navAPI = {
+        _bridgeReady: false,
+        _init: function() {
+            this._bridgeReady = true;
+        },
+        _send: function(param) {
+            this._bridgeReady ? _c.action.send(param):null;
+        },
+        bindBackBtn: function(func) { // 注册返回按钮
+            if ("[object Function]" != Object.prototype.toString.call(func)) {
+                return false;
+            }
+            this._send({
+                action: "triggerJS",
+                "function": "btnBack"
+            });
+            this.btnBack = func;
+        },
+        reload: function() {
+            navAPI._send({
+                action: "reload"
+            });
+        },
+        exitPlugin: function() {
+            navAPI._send({
+                action: "triggerFeature",
+                feature: "closeWebview"
+            });
+        }
+    },
+    callbacks = function(result) {
+        _c.callback(result);
+    };
+    _c.connect();
+
+    document.getElementsByClassName('ready')[0].addEventListener('click', navAPI.reload, false);
+</script>
+</html>

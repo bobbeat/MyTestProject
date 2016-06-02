@@ -1,0 +1,21 @@
+/* 
+  TMC.strings
+  AutoNavi
+
+  Created by huang longfeng on 13-8-20.
+
+*/
+
+"TMC_trafficInfo"                = "前方%@,%@%@ 影响范围%@";
+"TMC_eventInfo"                  = "前方%@,%@%@ ,请过往车辆小心避让";
+"TMC_slow"                       = "缓行";
+"TMC_congest"                    = "拥堵";
+"TMC_accident"                   = "发生事故";
+"TMC_underConstruction"          = "正在施工";
+"TMC_trafficControl"             = "交通管制";
+"TMC_roadBarrier"                = "路面障碍";
+"TMC_events"                     = "举办活动";
+"TMC_disaster"                   = "发生灾害";
+"TMC_badWeather"                 = "天气恶劣";
+
+

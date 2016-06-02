@@ -1,0 +1,18 @@
+/* 
+  TMC.strings
+  AutoNavi
+
+  Created by huang longfeng on 13-8-20.
+
+*/
+"TMC_trafficInfo"                = "Ahead %@,%@ %@ Affect %@";
+"TMC_eventInfo"                  = "Ahead %@,%@%@ ,Please be cautious.";
+"TMC_slow"                       = "Slow";
+"TMC_congest"                    = "Congestion";
+"TMC_accident"                   = "Accident";
+"TMC_underConstruction"          = " Construction";
+"TMC_trafficControl"             = "Restriction";
+"TMC_roadBarrier"                = "Obstacle";
+"TMC_events"                     = "Activities";
+"TMC_disaster"                   = "Disaster";
+"TMC_badWeather"                 = "Bad Weather";

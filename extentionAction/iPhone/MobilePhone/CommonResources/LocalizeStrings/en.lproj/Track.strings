@@ -1,0 +1,34 @@
+/* 
+  Track.strings
+  AutoNavi
+
+  Created by jiangshu.fu on 13-8-13.
+
+*/
+"TrackManage" = "Track Recording";
+//"TrackEdit"   = "Clear";
+"TrackDeleAll" = "Clear All？";
+"TrackList"   = "The driving track list";
+"TrackAutoRecord" = "Auto Record Track";
+//"TrackBusNOAuto"  = "公交&地铁模式无自动记录轨迹功能";
+
+"TrackInfo"   = "Track details";
+"TracKDele"   = "Delete";
+"TrackIsDel"  = "Clear All？";
+"TrackCancel" = "Cancel";
+"TrackOK"     = "YES";
+"TrackName"   = "Name";
+"TrackReplay" = "Track Replay";
+"TrackClose"  = "关闭显示";
+"TrackOpen"   = "地图显示";
+"TrackNameNull" = "轨迹名不能为空";
+"TrackBack"   = "Back";
+"TrackLimitLength" = "Exceed the specified length.";
+"TrackHasExist" = "轨迹名已存在";
+"TrackNetWork" = "Not data for current and this function can’t be performed.";
+"TrackToday" = "Today";
+"TrackYesterday" = "Yesterday";
+"TrackBeforYesterday" = "The day before yesterday";
+
+"TrackMapView"   = "Track Recording";
+"TrackNoData"   = "No track";

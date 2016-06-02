@@ -1,0 +1,11 @@
+/* 
+  MileRecord.strings
+  AutoNavi
+
+  Created by weihong.wang on 14-4-12.
+
+*/
+
+"MR_Share"="Share";
+"MR_NetWorkErro"="Access to share information failed, please check the network.";
+

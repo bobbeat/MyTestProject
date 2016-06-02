@@ -1,0 +1,145 @@
+/*
+ File.strings
+ AutoNavi
+ 
+ Created by huang on 13-8-9.
+ 
+ */
+//繁体
+
+
+"Setting_VersionInformation"="關于";
+"Setting_FontSizeTitle"="字體";
+"Setting_Day/NightModesTitle"="晝夜模式";
+"Setting_SettingReset" = "全部恢復默認設置";
+"Setting_SettingAbout" = "關於";
+"Setting_SettingRate" = "給個好評";
+"Setting_SettingFeedBack" = "問題反饋";
+"Setting_SettingCheckingUpdate"="檢查更新";
+"Setting_SettingElectronicCompass" = "電子羅盤";
+"Setting_SettingPopUp" = "地點信息即時顯示";
+"Setting_OnlineSearch" = "優先網絡搜索";
+"Setting_SettingLanguage" = "語言選擇";
+"Setting_Welcome" = "歡迎語";
+"Setting_SettingCamera"="電子狗播報";
+"Setting_SettingFrequency" = "語音提示頻率";
+"Setting_SettingTrafficReplay" = "路況播報";
+"Setting_SettingVoiceChoice" = "語音類別";
+"Setting_VoiceSetting" = "語音";
+"Setting_DisplayPriority" = "地點優先顯示";
+"Setting_VoiceSetting" = "語音";
+"Setting_TrackManagements"="行車軌迹";
+"Setting_POIDisplayPriority"="地點優先顯示";
+"Setting_NaviInBackground"="後台導航";
+"Setting_TrafficIncident"="交通事件";
+"Setting_BuildingFootprint"="街區詳圖";
+"Setting_AutoScore" = "自動打分";
+"Setting_AutoZoom" = "自動縮放";
+"Setting_LegalNotices"="特別提示";
+"Setting_More"="更多";
+"Setting_Setting"="設置";
+"Setting_Back"="返回地圖";
+"Setting_MapDownload"="地圖管理";
+"Setting_UserFeedback"="意見反饋";
+"Setting_NewFeatures"="新版本功能介紹";
+"Setting_PreferenceSetting"="偏好設置";
+"Setting_VoiceBroadcast"="語音播報";
+
+"Setting_POITypeAuto"="自動";
+"Setting_POITypeFuel"="加油站";
+"Setting_POITypeAUTO_4S"="汽車4S";
+"Setting_POITypeCatering"="餐飲美食";
+"Setting_POITypeMarket"="商場";
+"Setting_POITypeSuperMarket"="超市";
+"Setting_POITypeHall"="運動館";
+"Setting_POITypeGolf"="高爾夫";
+"Setting_POITypeKTV"="KTV";
+"Setting_POITypeCinema"="電影院";
+"Setting_POITypeHospital"="醫院";
+"Setting_POITypeHotel"="酒店住宿";
+"Setting_POITypeScenicSpots"="風景名勝";
+"Setting_POITypeSchool"="學校";
+"Setting_POITypeParking"="停車場";
+"Setting_POITypeBank"="銀行";
+"Setting_POITypeToilet"="公共廁所";
+"Setting_POIExplanations"="選擇您關心的地點，優先顯示在地圖上";
+
+"Setting_DialectType0"="國語女聲";
+
+"Setting_FrequencyType0"="一般";
+"Setting_FrequencyType1"="頻繁";
+
+"Setting_AutoNavi"="高德導航";
+"Setting_Copyright"="高德軟件有限公司版權所有";
+"Settin_DetectionUpdate"="檢測更新";
+"Setting_AlertBack"="取消";
+"Setting_AlertSure"="呼叫";
+
+"Setting_SystemVersion"="導航系統版本:%@";
+"Setting_EngineVersion"="導航引擎版本:%@";
+"Setting_DataVersion"="地圖數據版本:%@";
+"Setting_SoftwareVersion"="軟件版本";
+"Setting_MapCopyright"="地圖版本信息";
+
+
+"Setting_ServicePhone"="客服電話";
+"Setting_OfficialCommunity"="官方社區";
+
+"Setting_webSite" = "官方網址";
+"Setting_GDweibo" = "官方微博";
+"Setting_GDweChat" = "官方微信";
+"Setting_GDQQqun" = "官方QQ群";
+"Setting_GDEmail" = "客服郵箱";
+
+"Setting_FontSize0"="大";
+"Setting_FontSize1"="中";
+"Setting_FontSize2"="小";
+"Setting_Day/NightModes2"="自動";
+"Setting_Day/NightModes0"="白天";
+"Setting_Day/NightModes1"="夜晚";
+"Setting_ClosePOITitle"="關閉此功能後，需長按地圖界面才可顯示地點詳情";
+
+"Setting_ResetAllSettings"="恢複軟件默認設置";
+"Setting_EraseAll"="恢複軟件默認設置並刪除數據";
+"Setting_ResetAllAlertMessage"="您確認恢複軟件的默認設置嗎？";
+
+"Setting_ResetAlertBack"="取消";
+"Setting_ResetAllAlertSure"="確定";
+"Setting_EraseAllAlertMessage"="您確認恢複軟件默認設置並刪除數據和媒體文件嗎？";
+
+"Setting_CheckingUpdate"="正在檢查更新";
+"Setting_NewVersion"="新版更新";
+"Setting_UpdateSure"="立即更新";
+"Setting_UpdateCancel"="取消";
+
+"Setting_NewestVersion"="已經是最新版本";
+
+"Setting_NavigationSetting"="導航設置";
+"Setting_SignInMessage"="帳號未登錄,是否要登錄帳號?";
+"Setting_NO"="否";
+"Setting_YES"="是";
+"Setting_Authenticate"="授权失败,请重新登录帐号.";
+"Setting_NoPrompt"="不再提示";
+"Setting_RemindMeLater"="稍後提醒";
+
+"Setting_MapScheme"="地圖配色";
+"Setting_WinterSunshine"="冬日暖陽";
+"Setting_LightofDarkness"="黑暗之光";
+"Setting_Sunshine"="夏日陽光";
+"Setting_Sakura"="浪漫櫻花";
+"Setting_Moonlight"="月光夢影";
+"Setting_Cappuccino"="卡布奇諾";
+"Setting_NotSupportScheme"="當前基礎資源不支持，請升級後重新設置";
+
+
+//皮肤本地化删除后，强势插入
+"SkinDownload_update"        = "更新";
+"SkinDownload_unDownload"    = "未下載";
+"SkinDownload_continue"      = "繼續下載";
+"SkinDownload_unzip"         = "解壓中";
+"SkinDownload_Use"           = "使用";
+"SkinDownload_NoSkinID"      = "當前版本無兼容的皮膚，請升級至最新版本";
+"SkinDownload_CurrentLarge"  = "下載的大小大於服務器返回大小";
+"SkinDownload_NoSpace"       = "磁盤空間不足!";
+"SkinDownload_UnzipFail"     = "文件解壓失敗";
+"SkinDownload_waiting"      = "等待中";

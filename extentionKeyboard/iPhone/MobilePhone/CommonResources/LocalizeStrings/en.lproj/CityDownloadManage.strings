@@ -1,0 +1,76 @@
+/* 
+  Plugin_CityDownloadManager.strings
+  AutoNavi
+
+  Created by huang longfeng on 13-8-12.
+
+*/
+
+"CityDownloadManage_mapDataUnzip"           = "Extract map data";
+"CityDownloadManage_dataUnziping"           = "Extracting data, please wait";
+"CityDownloadManage_UnzipFail"            = "Extraction is completed, %d file decompression failed";
+"CityDownloadManage_unzipFinish" = "Extraction is completed!";
+"CityDownloadManage_unzipSuccess"            = "Extracting data successfully!";
+"CityDownloadManage_insufficientDiskSpace"   = "Insufficient disk space, fail to extract data!";
+"CityDownloadManage_mapDownloadInstruction" = "Map Download Instructions";
+"CityDownloadManage_continueUpdateData"     = "Continue";
+"CityDownloadManage_updateMapData"          = "Map Update";
+"CityDownloadManage_mapDataDownload"        = "Manage Map";
+"CityDownloadManage_newVersion"             = "The Map you are currently using is the latest version.";
+"CityDownloadManage_oldVersion"             = "   The version you use is too old to use new map data, please upgrade in iTunes. The system isn't compatible with old data after upgrade, for more details please see Upgrade Instruction’s in iTunes.";
+"CityDownloadManage_deleteDataAlert"        = "Upgrade the map data must first delete the local data, whether to upgrade?";
+"CityDownloadManage_downloadManager"        = "Managements";
+"CityDownloadManage_cityList"               = "Provinces List";
+"CityDownloadManage_downloading"            = "Download";
+"CityDownloadManage_completeDownload"       = "Completed";
+"CityDownloadManage_continueToDownload"     = "Data download hasn’t finished yet, continue to do it?";
+"CityDownloadManage_noFreeSize"             = "Your phone storage memory has only %.1fG left.It needs %.1fG when download mapdata, please release at least %.1fG memory.";
+"CityDownloadManage_completeBackToNavi"     = "The download is finished,let's start.";
+"CityDownloadManage_unZip"                  = "unZip...";
+"CityDownloadManage_actualLargerServer"      = "Actual download size is larger than the size of the server returns!";
+"CityDownloadManage_actualSmallServer"      = "Actual download size is less than the size of the server returns!";
+"CityDownloadManage_dataDownloadError"      = "Data download error, please re-download!";
+"CityDownloadManage_deleteDataRestart"      = "The app needs to be restarted after delete the data.Please press the Home button to quit the app.";
+"CityDownloadManage_startDownloadAlert"     = "The map data about %.1f%@,we kindly suggest you use WiFi to download.The current network is not WiFi,if you choose to download,your telecommunication provider will charge you for data usage.Please confirm whether to download?";
+"CityDownloadManage_basicResourcesDeleted"  = "Basic resources can‘t be deleted!";
+"CityDownloadManage_sureDeleteData"         = "Are you sure to delete map data? The app needs to be restarted after delete the data.Please press the Home button to quit the app.";
+"CityDownloadManage_isDeleteData"           = "Delete Data?";
+"CityDownloadManage_downloadPrecent"        = "Download %.1f％";
+"CityDownloadManage_stopDownloadPrecent"    = "Pausing %.1f％";
+"CityDownloadManage_readyDownloadPrecent"   = "Waiting %.1f％";
+"CityDownloadManage_beDownload"             = "Completed";
+"CityDownloadManage_Downloading"            = "Download";
+"CityDownloadManage_pauseDownload"          = "Pausing";
+"CityDownloadManage_readyDownload"          = "Waiting";
+"CityDownloadManage_hasupdatedata"             = "Updates";
+"CityDownloadManage_update"                 = "Update All";
+"CityDownloadManage_unCompleteBaseDataDown" = "You haven't finished download the basic data.";
+"CityDownloadManage_unZipBasicData"         = "Basic data being unpacked, please wait …";
+"CityDownloadManage_unCompleteNationalData" = "You haven't finished download the national data.";
+"CityDownloadManage_updateVersion"          = "Your current version is not supported, please update your version at App Store";
+"CityDownloadManage_beginUpgradeMap"        = "Began to upgrade the map";
+"CityDownloadManage_faileToLoad"            = "Faile to load";
+"CityDownloadManage_upgradeMap"             = "Upgrade Map";
+"CityDownloadManage_deleteMap"              = "Delete Map";
+"CityDownloadManage_deleteOldMap"           = "1.Remove the old version map,Please click[OK];\n2.Return,Please click[Cancel];\n3.Delete the old version maps, the program will automatically shut off. Please manual open program, complete the new map download;";
+"CityDownloadManage_inputCityName"           = "Please enter city name";
+"CityDownloadManage_isDownloadCountry"    = "Download the national map data?";
+"CityDownloadManage_Country"      = "China";
+"CityDownloadManage_urlEmpty"      = "Request Fail,please try again!";
+"CityDownloadManage_urlError"      = "Request Fail,please try again!";
+"CityDownloadManage_baseResources"      = "Basic Resources";
+"CityDownloadManage_xmlParserFail"      = "Xml parser fail";
+"CityDownloadManage_xmlDataError"      = "Xml data error";
+"CityDownloadManage_startAll"      = "Start All";
+"CityDownloadManage_stopAll"       = "Pause All";
+"CityDownloadManage_All"           = "All";
+
+"CityDownloadManage_start"      = "Start";
+"CityDownloadManage_stop"       = "Pause";
+
+"CityDownloadManage_updateFoundation"  = "Basic Resources updates, UI will be more complete.";
+"CityDownloadManage_updateMapdata"     = "Map data is updated, whether Update Now?";
+"CityDownloadManage_noMatchUpdate"     = "Detected%@some city data can't in cross use with lastest data , select Update All？";
+"CityDownloadManage_updaterightnow"    = "Update";
+"CityDownloadManage_updatelater"       = "Later update";
+"CityDownloadManage_basicresouce_restart"       = "Basic resources download is complete,in order to better use need to restart navigation";

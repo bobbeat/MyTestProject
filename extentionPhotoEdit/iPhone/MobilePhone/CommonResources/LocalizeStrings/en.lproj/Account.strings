@@ -1,0 +1,165 @@
+/* 
+  Account.strings
+  AutoNavi
+
+  Created by gaozhimin on 13-9-21.
+
+*/
+"Account_LoginFail" = "Login Fail!";
+"Account_Login" = "Log In";
+"Account_PhoneOrEmail" = "Phone or Email";
+"Account_Password" = "Password";
+"Account_ThirdAccount" = " Log in via other account";
+"Account_Register" = "Sign Up";
+"Account_ForgetPassword" = "Forgot password?";
+"Account_Sina" = "Sina";
+"Account_Tencent" = "Tencent";
+"Account_Manage" = "Account Management";
+"Account_MyInformation" = "My Profile";
+"Account_MyAccount" = "My Account";
+"Account_LogOut" = "Log Out";
+"Account_SureLogOut" = "Are you planning to logout?";
+"Account_Head" = "Profile Photo";
+"Account_NickName" = "Nickname";
+"Account_Gender" = "Gender";
+"Account_Region" = "Region";
+"Account_Age" = "Age";
+"Account_Signature" = "Signature";
+"Account_FindPassword" = "Retrieve password";
+"Account_Email" = "E-mail";
+"Account_Next" = "Next";
+"Account_InputEmailTip" = "System will send a verification message to your registered e-mail address, please follow the prompt message.";
+"Account_Security" = "For your account security, please bind your phone number promptly after login";
+"Account_RegisteredEmail" = "Registered email";
+"Account_PhoneNumber" = "Phone";
+"Account_Verification" = "Verification";
+"Account_RegistrationAgreement" = "Registration Agreement";
+"Account_Agree" = "I have read and agreed the";
+"Account_EmailFindPassword" = "Find password via email.";
+"Account_BindNextTime" = "Bind next time";
+"Account_BindNow" = "Binding now";
+"Account_BindPhoneAccount" = "Your Account: %@";
+"AccountBindPhone_Tips" = "Notice:You can login by using phone number;Autonavi navigation will provide high quality service.";
+"Account_LogOut1" = "Log Out";
+"Account_InputNickName" = "Input your nickname";
+"Account_NotBind" = "Not bind";
+"Account_BindPhoneNumber" = "Binding phone";
+"Account_SinaAccount" = "Binding Sina account";
+"Account_TencentAccount" = "Binding Tencent account";
+"Account_ModifyPassword" = "Modify password";
+
+"Account_RemoveTencentAccount" = "Are you planning to relieve Tencent binding?";
+"Account_RemoveSinaAccount" = "Are you planning to relieve Sina binding?";
+"Account_AccountTip1" = "Login Autonavi account can get more service.";
+"Account_AccountTip2" = "Binding weibo can share what you are interested in";
+"Account_AccountTip3" = "Login Autonavi account can get more service.";
+
+"Account_AccountTip4" ="The third-party login service has been paused, please login by using Autonavi account, thank you for cooperation.";
+"Account_AccountTip5" ="Your Autonavi account has been upgraded successfully, please login again, thank you for cooperation";
+"Account_Notice" = "NOTICE";
+"Account_PhoneCheck" = "The phonenum and the one received checkcode are different,please try again";
+"Account_BindError" = "Binding phone error,please try again";
+
+"Account_PasswordCondition" = "6-32 alphabets or numbers";
+"Account_InputPasswordAgain" = "Check password";
+"Account_NewPassword" = "New Password";
+"Account_ConfirmPassword" = "Confirm Password";
+"Account_Confirm" = "confirm";
+"Account_FinishBind" = "Done";
+
+"Account_OldPassword" = "Old Password";
+"Account_FirstName" = "Last Name";
+"Account_ModifyNick" = "Modify Name";
+"Account_Save" = "Save";
+"Account_EditSignature" = "Edit Signature";
+
+"Account_Male" = "Male";
+"Account_Female" = "Female";
+
+"Account_NetError" = "Network failure,please try again later.";
+"Account_NetTimeout" = "Network timeout,please try again later";
+"Account_Input11Phone" = "Please input phone";
+"Account_InputVerification" = "Please enter verification code";
+"Account_InputPassword" = "Please input password";
+"Account_InputEmail" = "Please input registered email";
+"Account_VerificationError" = "Verification code error";
+"Account_EmailError" = "Email is not registered";
+"Account_PhoneRegistered" = "Your phone number has been registered";
+"Account_NoPhone" = "Phone number is not registered,please register";
+"Account_PasswordConditionAlert" = "Password requires 6-32 alphabets or numbers,please retry";
+"Account_PasswordDif" = "Two passwords are different";
+"Account_NewPasswordDif" = "Two passwords are different";
+"Account_OldPasswordError" = "Old password error";
+"Account_ContentCondition" = "Only support 1-24 characters,letters and numbers";
+"Account_SignatureCondition" = "Signature can not over 140 characters";
+"Account_InputAccount" = "Please input phone number or email";
+"Account_NoAccount" = "Account is not registered";
+"Account_PasswordError" = "Password error";
+"Account_UserPasswordError" = "Account is not registered or Password error";
+"Account_ModifyPassSuccess" = "Modify password success";
+"Account_ModifyError" = "Modification fail,please try again";
+"Account_NoUser" = "Account is not registered";
+"Account_Relogin" = "Please log in again";
+"Account_RegistError" = "Register fail,please try again";
+"Account_GetDataError" = "Personal information access failed, please try again later";
+"Account_SendEmailFail" = "Send email fail,please try again later";
+"Account_MessageLimit" = "This message has reached the maximum,please get it tomorrow";
+"Account_SuccessSendEmail" = "Email has been sent, please reset your password";
+"Account_SuccessSendVerification" = "Verification code sent successfully";
+"Account_SuccessSendEmail" = "E-mail sent successfully";
+"Account_SuccessRegister" = "Congratuations,you have login your Autonavi account successfully";
+"Account_SuccessSetPass" = "Password is set successfully";
+"Account_SuccessModifyGender" = "Modify success";
+"Account_SuccessModifyNick" = "Modify success";
+"Account_SuccessModifyAge" = "Modify success";
+"Account_SuccessModifyRegion" = "Modify success";
+"Account_SuccessModifySign" = "Modify success";
+"Account_SuccessModifyHead" = "Modify success";
+"Account_SuccessModifyFirstName" = "Modify success";
+"Account_SuccessBindPhone" = "Bind success";
+"Account_SuccessRemove" = "Remove success";
+"Account_SuccessBind" = "Bind success";
+"Account_YHXY" = "User Agreement";
+"Account_MZDM" = "Registration Agreement";
+"Account_NonAccept" = "Non-binding";
+"Account_GetVerification" = "Verfication";
+"Account_Seconds" = "%d seconds";
+
+"Account_OperatorError" = "Operation failed,please try again %@";
+"Account_PhoneNumberBinded" = "Your phone number has been registered successfully, please don't repeat this operation.";
+"Account_InputVerificationError" = "Incorrect verfication code, please re-enter.";
+"Account_ReloginGDAccount" = "Please relog your AutoNavi account";
+"Account_PhoneBindByOther" = "Your phone number already registered to another account, please re-enter.";
+"Account_MessageSendFail" = "Sending SMS  failed, please click to reacquire verfication code.";
+"Account_PhoneModifyLimit" = "You've changed phone number 5 times recently, cannot change it again.";
+"Account_NoUserInfo" = "no this user`s order info";
+"Account_NoDes" = "no this user`s destination info";
+"Account_CurNoDes" = "This call not obtain the destination";
+"Account_PhoneNeedCheck" = "Your phone number hasn't be verified. Unable to turn on this service. Would you like to verify?";
+
+"Account_Home" = "Home";
+"Account_Company" = "Work";
+"Account_DriveRecord" = "Driving Records";
+"Account_Collection" = "Favorites";
+"Account_Camera" = "Camera";
+"Account_History" = "History Destination";
+"Account_Backup" = "Backup & Sync";
+"Account_No" = "Empty";
+"Account_LoginTip" = "Pls. click for login";
+"Account_Logout" = "Logout";
+"Account_TipSet" = "Tap to add";
+"Account_SeeMore" = "More";
+
+"Account_MyCamera" = "Camera";
+"Account_HistoryRoute" = "History Route";
+"Account_SynAll" = "Sync All";
+"Account_Syn" = "Sync";
+
+"Account_LastSynTime" = "Last time";
+"Account_Minutes" = "min";
+"Account_Hours" = "hour";
+"Account_AverageTrack" = "Average";
+"Account_Totalkm" = "Total Mileage";
+"Account_Score" = "分";
+"Account_AverageScore" = "score";
+"Account_SynFail" = " Sync Fail";
